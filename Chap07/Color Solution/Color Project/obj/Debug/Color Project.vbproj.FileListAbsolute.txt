@@ -1,0 +1,22 @@
+E:\VB2017\Chap07\Color Solution\Color Project\bin\Debug\Color Project.exe.config
+E:\VB2017\Chap07\Color Solution\Color Project\bin\Debug\Color Project.exe
+E:\VB2017\Chap07\Color Solution\Color Project\bin\Debug\Color Project.pdb
+E:\VB2017\Chap07\Color Solution\Color Project\bin\Debug\Color Project.xml
+E:\VB2017\Chap07\Color Solution\Color Project\obj\Debug\Color_Project.frmMain.resources
+E:\VB2017\Chap07\Color Solution\Color Project\obj\Debug\Color_Project.Resources.resources
+E:\VB2017\Chap07\Color Solution\Color Project\obj\Debug\Color Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap07\Color Solution\Color Project\obj\Debug\Color Project.exe
+E:\VB2017\Chap07\Color Solution\Color Project\obj\Debug\Color Project.xml
+E:\VB2017\Chap07\Color Solution\Color Project\obj\Debug\Color Project.pdb
+H:\Visual Basic\Chap07\Color Solution\Color Project\bin\Debug\Color Project.exe.config
+H:\Visual Basic\Chap07\Color Solution\Color Project\bin\Debug\Color Project.exe
+H:\Visual Basic\Chap07\Color Solution\Color Project\bin\Debug\Color Project.pdb
+H:\Visual Basic\Chap07\Color Solution\Color Project\bin\Debug\Color Project.xml
+H:\Visual Basic\Chap07\Color Solution\Color Project\obj\Debug\Color Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap07\Color Solution\Color Project\obj\Debug\Color_Project.frmMain.resources
+H:\Visual Basic\Chap07\Color Solution\Color Project\obj\Debug\Color_Project.Resources.resources
+H:\Visual Basic\Chap07\Color Solution\Color Project\obj\Debug\Color Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap07\Color Solution\Color Project\obj\Debug\Color Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap07\Color Solution\Color Project\obj\Debug\Color Project.exe
+H:\Visual Basic\Chap07\Color Solution\Color Project\obj\Debug\Color Project.xml
+H:\Visual Basic\Chap07\Color Solution\Color Project\obj\Debug\Color Project.pdb

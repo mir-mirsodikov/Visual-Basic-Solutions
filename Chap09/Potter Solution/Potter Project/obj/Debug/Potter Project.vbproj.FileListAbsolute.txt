@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap09\Potter Solution\Potter Project\bin\Debug\Potter Project.exe.config
+H:\Visual Basic\Chap09\Potter Solution\Potter Project\bin\Debug\Potter Project.exe
+H:\Visual Basic\Chap09\Potter Solution\Potter Project\bin\Debug\Potter Project.pdb
+H:\Visual Basic\Chap09\Potter Solution\Potter Project\bin\Debug\Potter Project.xml
+H:\Visual Basic\Chap09\Potter Solution\Potter Project\obj\Debug\Potter Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap09\Potter Solution\Potter Project\obj\Debug\Potter_Project.frmMain.resources
+H:\Visual Basic\Chap09\Potter Solution\Potter Project\obj\Debug\Potter_Project.Resources.resources
+H:\Visual Basic\Chap09\Potter Solution\Potter Project\obj\Debug\Potter Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap09\Potter Solution\Potter Project\obj\Debug\Potter Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap09\Potter Solution\Potter Project\obj\Debug\Potter Project.exe
+H:\Visual Basic\Chap09\Potter Solution\Potter Project\obj\Debug\Potter Project.xml
+H:\Visual Basic\Chap09\Potter Solution\Potter Project\obj\Debug\Potter Project.pdb

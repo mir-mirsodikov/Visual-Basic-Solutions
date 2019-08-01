@@ -1,0 +1,23 @@
+E:\VB2017\Chap08\Presidents Solution\Presidents Project\bin\Debug\Presidents Project.exe.config
+E:\VB2017\Chap08\Presidents Solution\Presidents Project\bin\Debug\Presidents Project.exe
+E:\VB2017\Chap08\Presidents Solution\Presidents Project\bin\Debug\Presidents Project.pdb
+E:\VB2017\Chap08\Presidents Solution\Presidents Project\bin\Debug\Presidents Project.xml
+E:\VB2017\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents_Project.frmMain.resources
+E:\VB2017\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents_Project.Resources.resources
+E:\VB2017\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.exe
+E:\VB2017\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.xml
+E:\VB2017\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.pdb
+H:\Visual Basic\Chap08\Presidents Solution\Presidents Project\bin\Debug\Presidents Project.exe.config
+H:\Visual Basic\Chap08\Presidents Solution\Presidents Project\bin\Debug\Presidents Project.exe
+H:\Visual Basic\Chap08\Presidents Solution\Presidents Project\bin\Debug\Presidents Project.pdb
+H:\Visual Basic\Chap08\Presidents Solution\Presidents Project\bin\Debug\Presidents Project.xml
+H:\Visual Basic\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents_Project.frmMain.resources
+H:\Visual Basic\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents_Project.Resources.resources
+H:\Visual Basic\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.exe
+H:\Visual Basic\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.xml
+H:\Visual Basic\Chap08\Presidents Solution\Presidents Project\obj\Debug\Presidents Project.pdb

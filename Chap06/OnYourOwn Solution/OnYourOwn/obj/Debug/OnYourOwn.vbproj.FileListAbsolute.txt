@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap06\OnYourOwn Solution\OnYourOwn\bin\Debug\OnYourOwn.exe.config
+H:\Visual Basic\Chap06\OnYourOwn Solution\OnYourOwn\bin\Debug\OnYourOwn.exe
+H:\Visual Basic\Chap06\OnYourOwn Solution\OnYourOwn\bin\Debug\OnYourOwn.pdb
+H:\Visual Basic\Chap06\OnYourOwn Solution\OnYourOwn\bin\Debug\OnYourOwn.xml
+H:\Visual Basic\Chap06\OnYourOwn Solution\OnYourOwn\obj\Debug\OnYourOwn.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap06\OnYourOwn Solution\OnYourOwn\obj\Debug\OnYourOwn.frmMain.resources
+H:\Visual Basic\Chap06\OnYourOwn Solution\OnYourOwn\obj\Debug\OnYourOwn.Resources.resources
+H:\Visual Basic\Chap06\OnYourOwn Solution\OnYourOwn\obj\Debug\OnYourOwn.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap06\OnYourOwn Solution\OnYourOwn\obj\Debug\OnYourOwn.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap06\OnYourOwn Solution\OnYourOwn\obj\Debug\OnYourOwn.exe
+H:\Visual Basic\Chap06\OnYourOwn Solution\OnYourOwn\obj\Debug\OnYourOwn.xml
+H:\Visual Basic\Chap06\OnYourOwn Solution\OnYourOwn\obj\Debug\OnYourOwn.pdb

@@ -1,0 +1,24 @@
+C:\Users\mirka\source\repos\Jacket Haven Solution\Jacket Haven Project\bin\Debug\Jacket Haven Project.exe.config
+C:\Users\mirka\source\repos\Jacket Haven Solution\Jacket Haven Project\bin\Debug\Jacket Haven Project.exe
+C:\Users\mirka\source\repos\Jacket Haven Solution\Jacket Haven Project\bin\Debug\Jacket Haven Project.pdb
+C:\Users\mirka\source\repos\Jacket Haven Solution\Jacket Haven Project\bin\Debug\Jacket Haven Project.xml
+C:\Users\mirka\source\repos\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket Haven Project.vbprojAssemblyReference.cache
+C:\Users\mirka\source\repos\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket_Haven_Project.frmMain.resources
+C:\Users\mirka\source\repos\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket_Haven_Project.Resources.resources
+C:\Users\mirka\source\repos\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket Haven Project.vbproj.GenerateResource.cache
+C:\Users\mirka\source\repos\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket Haven Project.vbproj.CoreCompileInputs.cache
+C:\Users\mirka\source\repos\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket Haven Project.exe
+C:\Users\mirka\source\repos\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket Haven Project.xml
+C:\Users\mirka\source\repos\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket Haven Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Jacket Haven Solution\Jacket Haven Project\bin\Debug\Jacket Haven Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Jacket Haven Solution\Jacket Haven Project\bin\Debug\Jacket Haven Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Jacket Haven Solution\Jacket Haven Project\bin\Debug\Jacket Haven Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Jacket Haven Solution\Jacket Haven Project\bin\Debug\Jacket Haven Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket Haven Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket_Haven_Project.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket_Haven_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket Haven Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket Haven Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket Haven Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket Haven Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Jacket Haven Solution\Jacket Haven Project\obj\Debug\Jacket Haven Project.pdb

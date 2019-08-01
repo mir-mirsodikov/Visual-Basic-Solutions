@@ -1,0 +1,34 @@
+E:\VB2017\Chap06\History Solution\History Project\bin\Debug\History Project.exe.config
+E:\VB2017\Chap06\History Solution\History Project\bin\Debug\History Project.exe
+E:\VB2017\Chap06\History Solution\History Project\bin\Debug\History Project.pdb
+E:\VB2017\Chap06\History Solution\History Project\bin\Debug\History Project.xml
+E:\VB2017\Chap06\History Solution\History Project\obj\Debug\History Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap06\History Solution\History Project\obj\Debug\History_Project.Resources.resources
+E:\VB2017\Chap06\History Solution\History Project\obj\Debug\History Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap06\History Solution\History Project\obj\Debug\History Project.exe
+E:\VB2017\Chap06\History Solution\History Project\obj\Debug\History Project.xml
+E:\VB2017\Chap06\History Solution\History Project\obj\Debug\History Project.pdb
+E:\VB2017\Chap06\History Solution\History Project\obj\Debug\History_Project.frmMain.resources
+E:\VB2017\Chap06\Data\History Solution\History Project\bin\Debug\History Project.exe.config
+E:\VB2017\Chap06\Data\History Solution\History Project\bin\Debug\History Project.exe
+E:\VB2017\Chap06\Data\History Solution\History Project\bin\Debug\History Project.pdb
+E:\VB2017\Chap06\Data\History Solution\History Project\bin\Debug\History Project.xml
+E:\VB2017\Chap06\Data\History Solution\History Project\obj\Debug\History Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap06\Data\History Solution\History Project\obj\Debug\History_Project.frmMain.resources
+E:\VB2017\Chap06\Data\History Solution\History Project\obj\Debug\History_Project.Resources.resources
+E:\VB2017\Chap06\Data\History Solution\History Project\obj\Debug\History Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap06\Data\History Solution\History Project\obj\Debug\History Project.exe
+E:\VB2017\Chap06\Data\History Solution\History Project\obj\Debug\History Project.xml
+E:\VB2017\Chap06\Data\History Solution\History Project\obj\Debug\History Project.pdb
+H:\Visual Basic\Chap06\History Solution\History Project\bin\Debug\History Project.exe.config
+H:\Visual Basic\Chap06\History Solution\History Project\bin\Debug\History Project.exe
+H:\Visual Basic\Chap06\History Solution\History Project\bin\Debug\History Project.pdb
+H:\Visual Basic\Chap06\History Solution\History Project\bin\Debug\History Project.xml
+H:\Visual Basic\Chap06\History Solution\History Project\obj\Debug\History Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap06\History Solution\History Project\obj\Debug\History_Project.frmMain.resources
+H:\Visual Basic\Chap06\History Solution\History Project\obj\Debug\History_Project.Resources.resources
+H:\Visual Basic\Chap06\History Solution\History Project\obj\Debug\History Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap06\History Solution\History Project\obj\Debug\History Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap06\History Solution\History Project\obj\Debug\History Project.exe
+H:\Visual Basic\Chap06\History Solution\History Project\obj\Debug\History Project.xml
+H:\Visual Basic\Chap06\History Solution\History Project\obj\Debug\History Project.pdb

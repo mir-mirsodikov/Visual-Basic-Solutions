@@ -1,0 +1,24 @@
+D:\Software Solution\Software Project\bin\Debug\Software Project.exe.config
+D:\Software Solution\Software Project\bin\Debug\Software Project.exe
+D:\Software Solution\Software Project\bin\Debug\Software Project.pdb
+D:\Software Solution\Software Project\bin\Debug\Software Project.xml
+D:\Software Solution\Software Project\obj\Debug\Software Project.vbprojAssemblyReference.cache
+D:\Software Solution\Software Project\obj\Debug\Software_Project.frmMain.resources
+D:\Software Solution\Software Project\obj\Debug\Software_Project.Resources.resources
+D:\Software Solution\Software Project\obj\Debug\Software Project.vbproj.GenerateResource.cache
+D:\Software Solution\Software Project\obj\Debug\Software Project.vbproj.CoreCompileInputs.cache
+D:\Software Solution\Software Project\obj\Debug\Software Project.exe
+D:\Software Solution\Software Project\obj\Debug\Software Project.xml
+D:\Software Solution\Software Project\obj\Debug\Software Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Software Solution\Software Project\bin\Debug\Software Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Software Solution\Software Project\bin\Debug\Software Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Software Solution\Software Project\bin\Debug\Software Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Software Solution\Software Project\bin\Debug\Software Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Software Solution\Software Project\obj\Debug\Software Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Software Solution\Software Project\obj\Debug\Software_Project.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Software Solution\Software Project\obj\Debug\Software_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Software Solution\Software Project\obj\Debug\Software Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Software Solution\Software Project\obj\Debug\Software Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Software Solution\Software Project\obj\Debug\Software Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Software Solution\Software Project\obj\Debug\Software Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\Software Solution\Software Project\obj\Debug\Software Project.pdb

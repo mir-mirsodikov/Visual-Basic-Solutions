@@ -1,0 +1,36 @@
+H:\Visual Basic\Area Solution\Area Project\bin\Debug\Area Project.exe.config
+H:\Visual Basic\Area Solution\Area Project\bin\Debug\Area Project.exe
+H:\Visual Basic\Area Solution\Area Project\bin\Debug\Area Project.pdb
+H:\Visual Basic\Area Solution\Area Project\bin\Debug\Area Project.xml
+H:\Visual Basic\Area Solution\Area Project\obj\Debug\Area Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Area Solution\Area Project\obj\Debug\Area_Project.frmMain.resources
+H:\Visual Basic\Area Solution\Area Project\obj\Debug\Area_Project.Resources.resources
+H:\Visual Basic\Area Solution\Area Project\obj\Debug\Area Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Area Solution\Area Project\obj\Debug\Area Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Area Solution\Area Project\obj\Debug\Area Project.exe
+H:\Visual Basic\Area Solution\Area Project\obj\Debug\Area Project.xml
+H:\Visual Basic\Area Solution\Area Project\obj\Debug\Area Project.pdb
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Area Solution\Area Project\bin\Debug\Area Project.exe.config
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Area Solution\Area Project\bin\Debug\Area Project.exe
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Area Solution\Area Project\bin\Debug\Area Project.pdb
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Area Solution\Area Project\bin\Debug\Area Project.xml
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Area Solution\Area Project\obj\Debug\Area Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Area Solution\Area Project\obj\Debug\Area_Project.frmMain.resources
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Area Solution\Area Project\obj\Debug\Area_Project.Resources.resources
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Area Solution\Area Project\obj\Debug\Area Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Area Solution\Area Project\obj\Debug\Area Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Area Solution\Area Project\obj\Debug\Area Project.exe
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Area Solution\Area Project\obj\Debug\Area Project.xml
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Area Solution\Area Project\obj\Debug\Area Project.pdb
+H:\Visual Basic\Chap03\Area Solution\Area Project\bin\Debug\Area Project.exe.config
+H:\Visual Basic\Chap03\Area Solution\Area Project\bin\Debug\Area Project.exe
+H:\Visual Basic\Chap03\Area Solution\Area Project\bin\Debug\Area Project.pdb
+H:\Visual Basic\Chap03\Area Solution\Area Project\bin\Debug\Area Project.xml
+H:\Visual Basic\Chap03\Area Solution\Area Project\obj\Debug\Area Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap03\Area Solution\Area Project\obj\Debug\Area_Project.frmMain.resources
+H:\Visual Basic\Chap03\Area Solution\Area Project\obj\Debug\Area_Project.Resources.resources
+H:\Visual Basic\Chap03\Area Solution\Area Project\obj\Debug\Area Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap03\Area Solution\Area Project\obj\Debug\Area Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap03\Area Solution\Area Project\obj\Debug\Area Project.exe
+H:\Visual Basic\Chap03\Area Solution\Area Project\obj\Debug\Area Project.xml
+H:\Visual Basic\Chap03\Area Solution\Area Project\obj\Debug\Area Project.pdb

@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap08\Continents Solution\Continents Project\bin\Debug\Continents Project.exe.config
+H:\Visual Basic\Chap08\Continents Solution\Continents Project\bin\Debug\Continents Project.exe
+H:\Visual Basic\Chap08\Continents Solution\Continents Project\bin\Debug\Continents Project.pdb
+H:\Visual Basic\Chap08\Continents Solution\Continents Project\bin\Debug\Continents Project.xml
+H:\Visual Basic\Chap08\Continents Solution\Continents Project\obj\Debug\Continents Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap08\Continents Solution\Continents Project\obj\Debug\Continents_Project.frmMain.resources
+H:\Visual Basic\Chap08\Continents Solution\Continents Project\obj\Debug\Continents_Project.Resources.resources
+H:\Visual Basic\Chap08\Continents Solution\Continents Project\obj\Debug\Continents Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap08\Continents Solution\Continents Project\obj\Debug\Continents Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap08\Continents Solution\Continents Project\obj\Debug\Continents Project.exe
+H:\Visual Basic\Chap08\Continents Solution\Continents Project\obj\Debug\Continents Project.xml
+H:\Visual Basic\Chap08\Continents Solution\Continents Project\obj\Debug\Continents Project.pdb

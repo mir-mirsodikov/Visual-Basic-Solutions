@@ -1,0 +1,34 @@
+E:\VB2017\Chap07\You Do It 1 Solution\You Do It 1 Project\bin\Debug\You Do It 1 Project.exe.config
+E:\VB2017\Chap07\You Do It 1 Solution\You Do It 1 Project\bin\Debug\You Do It 1 Project.exe
+E:\VB2017\Chap07\You Do It 1 Solution\You Do It 1 Project\bin\Debug\You Do It 1 Project.pdb
+E:\VB2017\Chap07\You Do It 1 Solution\You Do It 1 Project\bin\Debug\You Do It 1 Project.xml
+E:\VB2017\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You_Do_It_1_Project.Form1.resources
+E:\VB2017\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You_Do_It_1_Project.Resources.resources
+E:\VB2017\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.exe
+E:\VB2017\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.xml
+E:\VB2017\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.pdb
+H:\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\bin\Debug\You Do It 1 Project.exe.config
+H:\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\bin\Debug\You Do It 1 Project.exe
+H:\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\bin\Debug\You Do It 1 Project.pdb
+H:\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\bin\Debug\You Do It 1 Project.xml
+H:\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You_Do_It_1_Project.Form1.resources
+H:\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You_Do_It_1_Project.Resources.resources
+H:\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.exe
+H:\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.xml
+H:\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\bin\Debug\You Do It 1 Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\bin\Debug\You Do It 1 Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\bin\Debug\You Do It 1 Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\bin\Debug\You Do It 1 Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You_Do_It_1_Project.Form1.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You_Do_It_1_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\You Do It 1 Solution\You Do It 1 Project\obj\Debug\You Do It 1 Project.pdb

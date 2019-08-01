@@ -1,0 +1,22 @@
+E:\VB2017\Chap07\Shipping Solution\Shipping Project\bin\Debug\Shipping Project.exe.config
+E:\VB2017\Chap07\Shipping Solution\Shipping Project\bin\Debug\Shipping Project.exe
+E:\VB2017\Chap07\Shipping Solution\Shipping Project\bin\Debug\Shipping Project.pdb
+E:\VB2017\Chap07\Shipping Solution\Shipping Project\bin\Debug\Shipping Project.xml
+E:\VB2017\Chap07\Shipping Solution\Shipping Project\obj\Debug\Shipping_Project.frmMain.resources
+E:\VB2017\Chap07\Shipping Solution\Shipping Project\obj\Debug\Shipping_Project.Resources.resources
+E:\VB2017\Chap07\Shipping Solution\Shipping Project\obj\Debug\Shipping Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap07\Shipping Solution\Shipping Project\obj\Debug\Shipping Project.exe
+E:\VB2017\Chap07\Shipping Solution\Shipping Project\obj\Debug\Shipping Project.xml
+E:\VB2017\Chap07\Shipping Solution\Shipping Project\obj\Debug\Shipping Project.pdb
+H:\Visual Basic\Chap07\Shipping Solution\Shipping Project\bin\Debug\Shipping Project.exe.config
+H:\Visual Basic\Chap07\Shipping Solution\Shipping Project\bin\Debug\Shipping Project.exe
+H:\Visual Basic\Chap07\Shipping Solution\Shipping Project\bin\Debug\Shipping Project.pdb
+H:\Visual Basic\Chap07\Shipping Solution\Shipping Project\bin\Debug\Shipping Project.xml
+H:\Visual Basic\Chap07\Shipping Solution\Shipping Project\obj\Debug\Shipping Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap07\Shipping Solution\Shipping Project\obj\Debug\Shipping_Project.frmMain.resources
+H:\Visual Basic\Chap07\Shipping Solution\Shipping Project\obj\Debug\Shipping_Project.Resources.resources
+H:\Visual Basic\Chap07\Shipping Solution\Shipping Project\obj\Debug\Shipping Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap07\Shipping Solution\Shipping Project\obj\Debug\Shipping Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap07\Shipping Solution\Shipping Project\obj\Debug\Shipping Project.exe
+H:\Visual Basic\Chap07\Shipping Solution\Shipping Project\obj\Debug\Shipping Project.xml
+H:\Visual Basic\Chap07\Shipping Solution\Shipping Project\obj\Debug\Shipping Project.pdb

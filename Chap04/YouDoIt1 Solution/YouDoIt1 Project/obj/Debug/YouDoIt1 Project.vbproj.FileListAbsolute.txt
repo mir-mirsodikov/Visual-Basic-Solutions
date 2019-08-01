@@ -1,0 +1,24 @@
+H:\Visual Basic\YouDoIt1 Solution\YouDoIt1 Project\bin\Debug\YouDoIt1 Project.exe.config
+H:\Visual Basic\YouDoIt1 Solution\YouDoIt1 Project\bin\Debug\YouDoIt1 Project.exe
+H:\Visual Basic\YouDoIt1 Solution\YouDoIt1 Project\bin\Debug\YouDoIt1 Project.pdb
+H:\Visual Basic\YouDoIt1 Solution\YouDoIt1 Project\bin\Debug\YouDoIt1 Project.xml
+H:\Visual Basic\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1 Project.vbprojAssemblyReference.cache
+H:\Visual Basic\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1_Project.frmMain.resources
+H:\Visual Basic\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1_Project.Resources.resources
+H:\Visual Basic\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1 Project.vbproj.GenerateResource.cache
+H:\Visual Basic\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1 Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1 Project.exe
+H:\Visual Basic\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1 Project.xml
+H:\Visual Basic\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1 Project.pdb
+H:\Visual Basic\Chap04\YouDoIt1 Solution\YouDoIt1 Project\bin\Debug\YouDoIt1 Project.exe.config
+H:\Visual Basic\Chap04\YouDoIt1 Solution\YouDoIt1 Project\bin\Debug\YouDoIt1 Project.exe
+H:\Visual Basic\Chap04\YouDoIt1 Solution\YouDoIt1 Project\bin\Debug\YouDoIt1 Project.pdb
+H:\Visual Basic\Chap04\YouDoIt1 Solution\YouDoIt1 Project\bin\Debug\YouDoIt1 Project.xml
+H:\Visual Basic\Chap04\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1 Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap04\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1_Project.frmMain.resources
+H:\Visual Basic\Chap04\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1_Project.Resources.resources
+H:\Visual Basic\Chap04\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1 Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap04\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1 Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap04\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1 Project.exe
+H:\Visual Basic\Chap04\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1 Project.xml
+H:\Visual Basic\Chap04\YouDoIt1 Solution\YouDoIt1 Project\obj\Debug\YouDoIt1 Project.pdb

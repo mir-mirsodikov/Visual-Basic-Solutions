@@ -1,0 +1,12 @@
+D:\ch04\Williams Solution\Williams Project\bin\Debug\Williams Project.exe.config
+D:\ch04\Williams Solution\Williams Project\bin\Debug\Williams Project.exe
+D:\ch04\Williams Solution\Williams Project\bin\Debug\Williams Project.pdb
+D:\ch04\Williams Solution\Williams Project\bin\Debug\Williams Project.xml
+D:\ch04\Williams Solution\Williams Project\obj\Debug\Williams Project.vbprojAssemblyReference.cache
+D:\ch04\Williams Solution\Williams Project\obj\Debug\Williams_Project.frmMain.resources
+D:\ch04\Williams Solution\Williams Project\obj\Debug\Williams_Project.Resources.resources
+D:\ch04\Williams Solution\Williams Project\obj\Debug\Williams Project.vbproj.GenerateResource.cache
+D:\ch04\Williams Solution\Williams Project\obj\Debug\Williams Project.vbproj.CoreCompileInputs.cache
+D:\ch04\Williams Solution\Williams Project\obj\Debug\Williams Project.exe
+D:\ch04\Williams Solution\Williams Project\obj\Debug\Williams Project.xml
+D:\ch04\Williams Solution\Williams Project\obj\Debug\Williams Project.pdb

@@ -1,0 +1,18 @@
+Select Case dblTaxPay
+	Case Is <= 166
+		dblFedWthTax = 0
+	Case Is <= 525
+		dblFedWthTax = 0.1 * (dblTaxPay - 166)
+	Case Is <= 1626
+		dblFedWthTax = 35.9 + 0.15 * (dblTaxPay - 525)
+	Case Is <= 3111
+		dblFedWthTax = 201.05 + 0.25 * (dblTaxPay - 1626)
+	Case Is <= 4654
+		dblFedWthTax = 572.3 + 0.28 * (dblTaxPay - 3111)
+	Case Is <= 8180
+		dblFedWthTax = 1004.34 + 0.33 * (dblTaxPay - 4654)
+	Case Is <= 9218
+		dblFedWthTax = 2167.92 + 0.35 * (dblTaxPay - 8180)
+	Case Else
+		dblFedWthTax = 2531.22 + 0.396 * (dblTaxPay - 9218)
+End Select

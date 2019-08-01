@@ -1,0 +1,10 @@
+Beverage
+340500
+Food
+540200
+Packaged coffee
+437000
+Packaged tea
+124000
+Other
+235700

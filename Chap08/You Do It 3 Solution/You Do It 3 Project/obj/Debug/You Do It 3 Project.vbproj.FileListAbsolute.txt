@@ -1,0 +1,10 @@
+E:\VB2017\Chap08\You Do It 3 Solution\You Do It 3 Project\bin\Debug\You Do It 3 Project.exe.config
+E:\VB2017\Chap08\You Do It 3 Solution\You Do It 3 Project\bin\Debug\You Do It 3 Project.exe
+E:\VB2017\Chap08\You Do It 3 Solution\You Do It 3 Project\bin\Debug\You Do It 3 Project.pdb
+E:\VB2017\Chap08\You Do It 3 Solution\You Do It 3 Project\bin\Debug\You Do It 3 Project.xml
+E:\VB2017\Chap08\You Do It 3 Solution\You Do It 3 Project\obj\Debug\You_Do_It_3_Project.Form1.resources
+E:\VB2017\Chap08\You Do It 3 Solution\You Do It 3 Project\obj\Debug\You_Do_It_3_Project.Resources.resources
+E:\VB2017\Chap08\You Do It 3 Solution\You Do It 3 Project\obj\Debug\You Do It 3 Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap08\You Do It 3 Solution\You Do It 3 Project\obj\Debug\You Do It 3 Project.exe
+E:\VB2017\Chap08\You Do It 3 Solution\You Do It 3 Project\obj\Debug\You Do It 3 Project.xml
+E:\VB2017\Chap08\You Do It 3 Solution\You Do It 3 Project\obj\Debug\You Do It 3 Project.pdb

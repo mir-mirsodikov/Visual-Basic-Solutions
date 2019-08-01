@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap05\For Next Solution\For Next Project\bin\Debug\For Next Project.exe.config
+H:\Visual Basic\Chap05\For Next Solution\For Next Project\bin\Debug\For Next Project.exe
+H:\Visual Basic\Chap05\For Next Solution\For Next Project\bin\Debug\For Next Project.pdb
+H:\Visual Basic\Chap05\For Next Solution\For Next Project\bin\Debug\For Next Project.xml
+H:\Visual Basic\Chap05\For Next Solution\For Next Project\obj\Debug\For Next Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap05\For Next Solution\For Next Project\obj\Debug\For_Next_Project.frmMain.resources
+H:\Visual Basic\Chap05\For Next Solution\For Next Project\obj\Debug\For_Next_Project.Resources.resources
+H:\Visual Basic\Chap05\For Next Solution\For Next Project\obj\Debug\For Next Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap05\For Next Solution\For Next Project\obj\Debug\For Next Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap05\For Next Solution\For Next Project\obj\Debug\For Next Project.exe
+H:\Visual Basic\Chap05\For Next Solution\For Next Project\obj\Debug\For Next Project.xml
+H:\Visual Basic\Chap05\For Next Solution\For Next Project\obj\Debug\For Next Project.pdb

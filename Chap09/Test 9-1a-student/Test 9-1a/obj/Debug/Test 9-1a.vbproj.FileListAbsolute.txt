@@ -1,0 +1,24 @@
+H:\VB 2017\Chap 9\Test 9-1a\Test 9-1a\bin\Debug\Test 9-1a.exe.config
+H:\VB 2017\Chap 9\Test 9-1a\Test 9-1a\bin\Debug\Test 9-1a.exe
+H:\VB 2017\Chap 9\Test 9-1a\Test 9-1a\bin\Debug\Test 9-1a.pdb
+H:\VB 2017\Chap 9\Test 9-1a\Test 9-1a\bin\Debug\Test 9-1a.xml
+H:\VB 2017\Chap 9\Test 9-1a\Test 9-1a\obj\Debug\Test 9-1a.vbprojAssemblyReference.cache
+H:\VB 2017\Chap 9\Test 9-1a\Test 9-1a\obj\Debug\Test_9_1a.frmMain.resources
+H:\VB 2017\Chap 9\Test 9-1a\Test 9-1a\obj\Debug\Test_9_1a.Resources.resources
+H:\VB 2017\Chap 9\Test 9-1a\Test 9-1a\obj\Debug\Test 9-1a.vbproj.GenerateResource.cache
+H:\VB 2017\Chap 9\Test 9-1a\Test 9-1a\obj\Debug\Test 9-1a.vbproj.CoreCompileInputs.cache
+H:\VB 2017\Chap 9\Test 9-1a\Test 9-1a\obj\Debug\Test 9-1a.exe
+H:\VB 2017\Chap 9\Test 9-1a\Test 9-1a\obj\Debug\Test 9-1a.xml
+H:\VB 2017\Chap 9\Test 9-1a\Test 9-1a\obj\Debug\Test 9-1a.pdb
+H:\Visual Basic\Chap09\Test 9-1a-student\Test 9-1a\bin\Debug\Test 9-1a.exe.config
+H:\Visual Basic\Chap09\Test 9-1a-student\Test 9-1a\bin\Debug\Test 9-1a.exe
+H:\Visual Basic\Chap09\Test 9-1a-student\Test 9-1a\bin\Debug\Test 9-1a.pdb
+H:\Visual Basic\Chap09\Test 9-1a-student\Test 9-1a\bin\Debug\Test 9-1a.xml
+H:\Visual Basic\Chap09\Test 9-1a-student\Test 9-1a\obj\Debug\Test 9-1a.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap09\Test 9-1a-student\Test 9-1a\obj\Debug\Test_9_1a.frmMain.resources
+H:\Visual Basic\Chap09\Test 9-1a-student\Test 9-1a\obj\Debug\Test_9_1a.Resources.resources
+H:\Visual Basic\Chap09\Test 9-1a-student\Test 9-1a\obj\Debug\Test 9-1a.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap09\Test 9-1a-student\Test 9-1a\obj\Debug\Test 9-1a.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap09\Test 9-1a-student\Test 9-1a\obj\Debug\Test 9-1a.exe
+H:\Visual Basic\Chap09\Test 9-1a-student\Test 9-1a\obj\Debug\Test 9-1a.xml
+H:\Visual Basic\Chap09\Test 9-1a-student\Test 9-1a\obj\Debug\Test 9-1a.pdb

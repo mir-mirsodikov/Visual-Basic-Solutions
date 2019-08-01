@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap08\Test 8b - student\Test 8b - student\bin\Debug\Test 8b - student.exe.config
+H:\Visual Basic\Chap08\Test 8b - student\Test 8b - student\bin\Debug\Test 8b - student.exe
+H:\Visual Basic\Chap08\Test 8b - student\Test 8b - student\bin\Debug\Test 8b - student.pdb
+H:\Visual Basic\Chap08\Test 8b - student\Test 8b - student\bin\Debug\Test 8b - student.xml
+H:\Visual Basic\Chap08\Test 8b - student\Test 8b - student\obj\Debug\Test 8b - student.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap08\Test 8b - student\Test 8b - student\obj\Debug\Test_8b___student.frmMain.resources
+H:\Visual Basic\Chap08\Test 8b - student\Test 8b - student\obj\Debug\Test_8b___student.Resources.resources
+H:\Visual Basic\Chap08\Test 8b - student\Test 8b - student\obj\Debug\Test 8b - student.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap08\Test 8b - student\Test 8b - student\obj\Debug\Test 8b - student.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap08\Test 8b - student\Test 8b - student\obj\Debug\Test 8b - student.exe
+H:\Visual Basic\Chap08\Test 8b - student\Test 8b - student\obj\Debug\Test 8b - student.xml
+H:\Visual Basic\Chap08\Test 8b - student\Test 8b - student\obj\Debug\Test 8b - student.pdb

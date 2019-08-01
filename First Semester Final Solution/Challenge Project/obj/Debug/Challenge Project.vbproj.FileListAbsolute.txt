@@ -1,0 +1,72 @@
+D:\Challenge Solution\Challenge Project\bin\Debug\Challenge Project.exe.config
+D:\Challenge Solution\Challenge Project\bin\Debug\Challenge Project.exe
+D:\Challenge Solution\Challenge Project\bin\Debug\Challenge Project.pdb
+D:\Challenge Solution\Challenge Project\bin\Debug\Challenge Project.xml
+D:\Challenge Solution\Challenge Project\obj\Debug\Challenge Project.vbprojAssemblyReference.cache
+D:\Challenge Solution\Challenge Project\obj\Debug\Challenge_Project.frmMain.resources
+D:\Challenge Solution\Challenge Project\obj\Debug\Challenge_Project.Resources.resources
+D:\Challenge Solution\Challenge Project\obj\Debug\Challenge Project.vbproj.GenerateResource.cache
+D:\Challenge Solution\Challenge Project\obj\Debug\Challenge Project.vbproj.CoreCompileInputs.cache
+D:\Challenge Solution\Challenge Project\obj\Debug\Challenge Project.exe
+D:\Challenge Solution\Challenge Project\obj\Debug\Challenge Project.xml
+D:\Challenge Solution\Challenge Project\obj\Debug\Challenge Project.pdb
+E:\OnYourOwn Solution\Challenge Project\bin\Debug\Challenge Project.exe.config
+E:\OnYourOwn Solution\Challenge Project\bin\Debug\Challenge Project.exe
+E:\OnYourOwn Solution\Challenge Project\bin\Debug\Challenge Project.pdb
+E:\OnYourOwn Solution\Challenge Project\bin\Debug\Challenge Project.xml
+E:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.vbprojAssemblyReference.cache
+E:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge_Project.frmMain.resources
+E:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge_Project.Resources.resources
+E:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.vbproj.GenerateResource.cache
+E:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.vbproj.CoreCompileInputs.cache
+E:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.exe
+E:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.xml
+E:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.pdb
+D:\OnYourOwn Solution\Challenge Project\bin\Debug\Challenge Project.exe.config
+D:\OnYourOwn Solution\Challenge Project\bin\Debug\Challenge Project.exe
+D:\OnYourOwn Solution\Challenge Project\bin\Debug\Challenge Project.pdb
+D:\OnYourOwn Solution\Challenge Project\bin\Debug\Challenge Project.xml
+D:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.vbprojAssemblyReference.cache
+D:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge_Project.frmMain.resources
+D:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge_Project.Resources.resources
+D:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.vbproj.GenerateResource.cache
+D:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.vbproj.CoreCompileInputs.cache
+D:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.exe
+D:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.xml
+D:\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.pdb
+H:\Visual Basic\Chap05\OnYourOwn Solution\Challenge Project\bin\Debug\Challenge Project.exe.config
+H:\Visual Basic\Chap05\OnYourOwn Solution\Challenge Project\bin\Debug\Challenge Project.exe
+H:\Visual Basic\Chap05\OnYourOwn Solution\Challenge Project\bin\Debug\Challenge Project.pdb
+H:\Visual Basic\Chap05\OnYourOwn Solution\Challenge Project\bin\Debug\Challenge Project.xml
+H:\Visual Basic\Chap05\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap05\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge_Project.frmMain.resources
+H:\Visual Basic\Chap05\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge_Project.Resources.resources
+H:\Visual Basic\Chap05\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap05\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap05\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.exe
+H:\Visual Basic\Chap05\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.xml
+H:\Visual Basic\Chap05\OnYourOwn Solution\Challenge Project\obj\Debug\Challenge Project.pdb
+H:\Visual Basic\First Semester Final Solution\Challenge Project\bin\Debug\Challenge Project.exe.config
+H:\Visual Basic\First Semester Final Solution\Challenge Project\bin\Debug\Challenge Project.exe
+H:\Visual Basic\First Semester Final Solution\Challenge Project\bin\Debug\Challenge Project.pdb
+H:\Visual Basic\First Semester Final Solution\Challenge Project\bin\Debug\Challenge Project.xml
+H:\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge Project.vbprojAssemblyReference.cache
+H:\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge_Project.frmMain.resources
+H:\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge_Project.Resources.resources
+H:\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge Project.vbproj.GenerateResource.cache
+H:\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge Project.exe
+H:\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge Project.xml
+H:\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\First Semester Final Solution\Challenge Project\bin\Debug\Challenge Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\First Semester Final Solution\Challenge Project\bin\Debug\Challenge Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\First Semester Final Solution\Challenge Project\bin\Debug\Challenge Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\First Semester Final Solution\Challenge Project\bin\Debug\Challenge Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge_Project.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\First Semester Final Solution\Challenge Project\obj\Debug\Challenge Project.pdb

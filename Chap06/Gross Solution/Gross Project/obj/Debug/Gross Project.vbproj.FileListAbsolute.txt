@@ -1,0 +1,22 @@
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\obj\Debug\Gross_Project.frmMain.resources
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\obj\Debug\Gross_Project.Resources.resources
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\obj\Debug\Gross Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\bin\Debug\Gross Project.exe.config
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\bin\Debug\Gross Project.exe
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\bin\Debug\Gross Project.pdb
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\bin\Debug\Gross Project.xml
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\obj\Debug\Gross Project.exe
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\obj\Debug\Gross Project.xml
+E:\VB2017\Chap06\Data\Gross Solution\Gross Project\obj\Debug\Gross Project.pdb
+H:\Visual Basic\Chap06\Gross Solution\Gross Project\bin\Debug\Gross Project.exe.config
+H:\Visual Basic\Chap06\Gross Solution\Gross Project\bin\Debug\Gross Project.exe
+H:\Visual Basic\Chap06\Gross Solution\Gross Project\bin\Debug\Gross Project.pdb
+H:\Visual Basic\Chap06\Gross Solution\Gross Project\bin\Debug\Gross Project.xml
+H:\Visual Basic\Chap06\Gross Solution\Gross Project\obj\Debug\Gross Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap06\Gross Solution\Gross Project\obj\Debug\Gross_Project.frmMain.resources
+H:\Visual Basic\Chap06\Gross Solution\Gross Project\obj\Debug\Gross_Project.Resources.resources
+H:\Visual Basic\Chap06\Gross Solution\Gross Project\obj\Debug\Gross Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap06\Gross Solution\Gross Project\obj\Debug\Gross Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap06\Gross Solution\Gross Project\obj\Debug\Gross Project.exe
+H:\Visual Basic\Chap06\Gross Solution\Gross Project\obj\Debug\Gross Project.xml
+H:\Visual Basic\Chap06\Gross Solution\Gross Project\obj\Debug\Gross Project.pdb

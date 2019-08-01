@@ -1,0 +1,22 @@
+E:\VB2017\Chap08\Computer Solution\Computer Project\bin\Debug\Computer Project.exe.config
+E:\VB2017\Chap08\Computer Solution\Computer Project\bin\Debug\Computer Project.exe
+E:\VB2017\Chap08\Computer Solution\Computer Project\bin\Debug\Computer Project.pdb
+E:\VB2017\Chap08\Computer Solution\Computer Project\bin\Debug\Computer Project.xml
+E:\VB2017\Chap08\Computer Solution\Computer Project\obj\Debug\Computer_Project.frmMain.resources
+E:\VB2017\Chap08\Computer Solution\Computer Project\obj\Debug\Computer_Project.Resources.resources
+E:\VB2017\Chap08\Computer Solution\Computer Project\obj\Debug\Computer Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap08\Computer Solution\Computer Project\obj\Debug\Computer Project.exe
+E:\VB2017\Chap08\Computer Solution\Computer Project\obj\Debug\Computer Project.xml
+E:\VB2017\Chap08\Computer Solution\Computer Project\obj\Debug\Computer Project.pdb
+H:\Visual Basic\Chap08\Computer Solution\Computer Project\bin\Debug\Computer Project.exe.config
+H:\Visual Basic\Chap08\Computer Solution\Computer Project\bin\Debug\Computer Project.exe
+H:\Visual Basic\Chap08\Computer Solution\Computer Project\bin\Debug\Computer Project.pdb
+H:\Visual Basic\Chap08\Computer Solution\Computer Project\bin\Debug\Computer Project.xml
+H:\Visual Basic\Chap08\Computer Solution\Computer Project\obj\Debug\Computer Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap08\Computer Solution\Computer Project\obj\Debug\Computer_Project.frmMain.resources
+H:\Visual Basic\Chap08\Computer Solution\Computer Project\obj\Debug\Computer_Project.Resources.resources
+H:\Visual Basic\Chap08\Computer Solution\Computer Project\obj\Debug\Computer Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap08\Computer Solution\Computer Project\obj\Debug\Computer Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap08\Computer Solution\Computer Project\obj\Debug\Computer Project.exe
+H:\Visual Basic\Chap08\Computer Solution\Computer Project\obj\Debug\Computer Project.xml
+H:\Visual Basic\Chap08\Computer Solution\Computer Project\obj\Debug\Computer Project.pdb

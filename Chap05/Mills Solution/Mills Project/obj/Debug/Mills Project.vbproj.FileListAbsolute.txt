@@ -1,0 +1,36 @@
+D:\Mills Solution\Mills Project\bin\Debug\Mills Project.exe.config
+D:\Mills Solution\Mills Project\bin\Debug\Mills Project.exe
+D:\Mills Solution\Mills Project\bin\Debug\Mills Project.pdb
+D:\Mills Solution\Mills Project\bin\Debug\Mills Project.xml
+D:\Mills Solution\Mills Project\obj\Debug\Mills Project.vbprojAssemblyReference.cache
+D:\Mills Solution\Mills Project\obj\Debug\Mills_Project.frmMain.resources
+D:\Mills Solution\Mills Project\obj\Debug\Mills_Project.Resources.resources
+D:\Mills Solution\Mills Project\obj\Debug\Mills Project.vbproj.GenerateResource.cache
+D:\Mills Solution\Mills Project\obj\Debug\Mills Project.vbproj.CoreCompileInputs.cache
+D:\Mills Solution\Mills Project\obj\Debug\Mills Project.exe
+D:\Mills Solution\Mills Project\obj\Debug\Mills Project.xml
+D:\Mills Solution\Mills Project\obj\Debug\Mills Project.pdb
+H:\Visual Basic\Chap05\Mills Solution\Mills Project\bin\Debug\Mills Project.exe.config
+H:\Visual Basic\Chap05\Mills Solution\Mills Project\bin\Debug\Mills Project.exe
+H:\Visual Basic\Chap05\Mills Solution\Mills Project\bin\Debug\Mills Project.pdb
+H:\Visual Basic\Chap05\Mills Solution\Mills Project\bin\Debug\Mills Project.xml
+H:\Visual Basic\Chap05\Mills Solution\Mills Project\obj\Debug\Mills Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap05\Mills Solution\Mills Project\obj\Debug\Mills_Project.frmMain.resources
+H:\Visual Basic\Chap05\Mills Solution\Mills Project\obj\Debug\Mills_Project.Resources.resources
+H:\Visual Basic\Chap05\Mills Solution\Mills Project\obj\Debug\Mills Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap05\Mills Solution\Mills Project\obj\Debug\Mills Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap05\Mills Solution\Mills Project\obj\Debug\Mills Project.exe
+H:\Visual Basic\Chap05\Mills Solution\Mills Project\obj\Debug\Mills Project.xml
+H:\Visual Basic\Chap05\Mills Solution\Mills Project\obj\Debug\Mills Project.pdb
+D:\Chap05\Mills Solution\Mills Project\bin\Debug\Mills Project.exe.config
+D:\Chap05\Mills Solution\Mills Project\bin\Debug\Mills Project.exe
+D:\Chap05\Mills Solution\Mills Project\bin\Debug\Mills Project.pdb
+D:\Chap05\Mills Solution\Mills Project\bin\Debug\Mills Project.xml
+D:\Chap05\Mills Solution\Mills Project\obj\Debug\Mills Project.vbprojAssemblyReference.cache
+D:\Chap05\Mills Solution\Mills Project\obj\Debug\Mills_Project.frmMain.resources
+D:\Chap05\Mills Solution\Mills Project\obj\Debug\Mills_Project.Resources.resources
+D:\Chap05\Mills Solution\Mills Project\obj\Debug\Mills Project.vbproj.GenerateResource.cache
+D:\Chap05\Mills Solution\Mills Project\obj\Debug\Mills Project.vbproj.CoreCompileInputs.cache
+D:\Chap05\Mills Solution\Mills Project\obj\Debug\Mills Project.exe
+D:\Chap05\Mills Solution\Mills Project\obj\Debug\Mills Project.xml
+D:\Chap05\Mills Solution\Mills Project\obj\Debug\Mills Project.pdb

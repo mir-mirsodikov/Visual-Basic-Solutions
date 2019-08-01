@@ -1,0 +1,23 @@
+E:\VB2017\Chap03\Circle Solution\Circle Project\bin\Debug\Circle Project.exe.config
+E:\VB2017\Chap03\Circle Solution\Circle Project\bin\Debug\Circle Project.exe
+E:\VB2017\Chap03\Circle Solution\Circle Project\bin\Debug\Circle Project.pdb
+E:\VB2017\Chap03\Circle Solution\Circle Project\bin\Debug\Circle Project.xml
+E:\VB2017\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap03\Circle Solution\Circle Project\obj\Debug\Circle_Project.frmMain.resources
+E:\VB2017\Chap03\Circle Solution\Circle Project\obj\Debug\Circle_Project.Resources.resources
+E:\VB2017\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.exe
+E:\VB2017\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.xml
+E:\VB2017\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.pdb
+H:\Visual Basic\Chap03\Circle Solution\Circle Project\bin\Debug\Circle Project.exe.config
+H:\Visual Basic\Chap03\Circle Solution\Circle Project\bin\Debug\Circle Project.exe
+H:\Visual Basic\Chap03\Circle Solution\Circle Project\bin\Debug\Circle Project.pdb
+H:\Visual Basic\Chap03\Circle Solution\Circle Project\bin\Debug\Circle Project.xml
+H:\Visual Basic\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap03\Circle Solution\Circle Project\obj\Debug\Circle_Project.frmMain.resources
+H:\Visual Basic\Chap03\Circle Solution\Circle Project\obj\Debug\Circle_Project.Resources.resources
+H:\Visual Basic\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.exe
+H:\Visual Basic\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.xml
+H:\Visual Basic\Chap03\Circle Solution\Circle Project\obj\Debug\Circle Project.pdb

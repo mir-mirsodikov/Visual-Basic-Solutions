@@ -1,0 +1,24 @@
+H:\Visual Basic\Hales Solution\Hales Project\bin\Debug\Hales Project.exe.config
+H:\Visual Basic\Hales Solution\Hales Project\bin\Debug\Hales Project.exe
+H:\Visual Basic\Hales Solution\Hales Project\bin\Debug\Hales Project.pdb
+H:\Visual Basic\Hales Solution\Hales Project\bin\Debug\Hales Project.xml
+H:\Visual Basic\Hales Solution\Hales Project\obj\Debug\Hales Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Hales Solution\Hales Project\obj\Debug\Hales_Project.frmMain.resources
+H:\Visual Basic\Hales Solution\Hales Project\obj\Debug\Hales_Project.Resources.resources
+H:\Visual Basic\Hales Solution\Hales Project\obj\Debug\Hales Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Hales Solution\Hales Project\obj\Debug\Hales Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Hales Solution\Hales Project\obj\Debug\Hales Project.exe
+H:\Visual Basic\Hales Solution\Hales Project\obj\Debug\Hales Project.xml
+H:\Visual Basic\Hales Solution\Hales Project\obj\Debug\Hales Project.pdb
+H:\Visual Basic\Chap04\Hales Solution - Select Case\Hales Project\bin\Debug\Hales Project.exe.config
+H:\Visual Basic\Chap04\Hales Solution - Select Case\Hales Project\bin\Debug\Hales Project.exe
+H:\Visual Basic\Chap04\Hales Solution - Select Case\Hales Project\bin\Debug\Hales Project.pdb
+H:\Visual Basic\Chap04\Hales Solution - Select Case\Hales Project\bin\Debug\Hales Project.xml
+H:\Visual Basic\Chap04\Hales Solution - Select Case\Hales Project\obj\Debug\Hales Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap04\Hales Solution - Select Case\Hales Project\obj\Debug\Hales_Project.frmMain.resources
+H:\Visual Basic\Chap04\Hales Solution - Select Case\Hales Project\obj\Debug\Hales_Project.Resources.resources
+H:\Visual Basic\Chap04\Hales Solution - Select Case\Hales Project\obj\Debug\Hales Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap04\Hales Solution - Select Case\Hales Project\obj\Debug\Hales Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap04\Hales Solution - Select Case\Hales Project\obj\Debug\Hales Project.exe
+H:\Visual Basic\Chap04\Hales Solution - Select Case\Hales Project\obj\Debug\Hales Project.xml
+H:\Visual Basic\Chap04\Hales Solution - Select Case\Hales Project\obj\Debug\Hales Project.pdb

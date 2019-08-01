@@ -1,0 +1,24 @@
+H:\Visual Basic\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.exe.config
+H:\Visual Basic\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.exe
+H:\Visual Basic\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.pdb
+H:\Visual Basic\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.xml
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden_Project.frmMain.resources
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden_Project.Resources.resources
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.exe
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.xml
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.pdb
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.exe.config
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.exe
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.pdb
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.xml
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden_Project.frmMain.resources
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden_Project.Resources.resources
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.exe
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.xml
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.pdb

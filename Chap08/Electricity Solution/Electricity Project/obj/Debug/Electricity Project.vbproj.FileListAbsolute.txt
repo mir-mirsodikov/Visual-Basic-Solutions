@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap08\Electricity Solution\Electricity Project\bin\Debug\Electricity Project.exe.config
+H:\Visual Basic\Chap08\Electricity Solution\Electricity Project\bin\Debug\Electricity Project.exe
+H:\Visual Basic\Chap08\Electricity Solution\Electricity Project\bin\Debug\Electricity Project.pdb
+H:\Visual Basic\Chap08\Electricity Solution\Electricity Project\bin\Debug\Electricity Project.xml
+H:\Visual Basic\Chap08\Electricity Solution\Electricity Project\obj\Debug\Electricity Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap08\Electricity Solution\Electricity Project\obj\Debug\Electricity_Project.frmMain.resources
+H:\Visual Basic\Chap08\Electricity Solution\Electricity Project\obj\Debug\Electricity_Project.Resources.resources
+H:\Visual Basic\Chap08\Electricity Solution\Electricity Project\obj\Debug\Electricity Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap08\Electricity Solution\Electricity Project\obj\Debug\Electricity Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap08\Electricity Solution\Electricity Project\obj\Debug\Electricity Project.exe
+H:\Visual Basic\Chap08\Electricity Solution\Electricity Project\obj\Debug\Electricity Project.xml
+H:\Visual Basic\Chap08\Electricity Solution\Electricity Project\obj\Debug\Electricity Project.pdb

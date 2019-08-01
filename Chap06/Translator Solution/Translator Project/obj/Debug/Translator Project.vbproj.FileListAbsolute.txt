@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap06\Translator Solution\Translator Project\bin\Debug\Translator Project.exe.config
+H:\Visual Basic\Chap06\Translator Solution\Translator Project\bin\Debug\Translator Project.exe
+H:\Visual Basic\Chap06\Translator Solution\Translator Project\bin\Debug\Translator Project.pdb
+H:\Visual Basic\Chap06\Translator Solution\Translator Project\bin\Debug\Translator Project.xml
+H:\Visual Basic\Chap06\Translator Solution\Translator Project\obj\Debug\Translator Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap06\Translator Solution\Translator Project\obj\Debug\Translator_Project.Resources.resources
+H:\Visual Basic\Chap06\Translator Solution\Translator Project\obj\Debug\Translator Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap06\Translator Solution\Translator Project\obj\Debug\Translator Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap06\Translator Solution\Translator Project\obj\Debug\Translator Project.exe
+H:\Visual Basic\Chap06\Translator Solution\Translator Project\obj\Debug\Translator Project.xml
+H:\Visual Basic\Chap06\Translator Solution\Translator Project\obj\Debug\Translator Project.pdb
+H:\Visual Basic\Chap06\Translator Solution\Translator Project\obj\Debug\Translator_Project.frmMain.resources

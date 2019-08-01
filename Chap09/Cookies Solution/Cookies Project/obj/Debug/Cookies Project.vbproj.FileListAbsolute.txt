@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap09\Cookies Solution\Cookies Project\bin\Debug\Cookies Project.exe.config
+H:\Visual Basic\Chap09\Cookies Solution\Cookies Project\bin\Debug\Cookies Project.exe
+H:\Visual Basic\Chap09\Cookies Solution\Cookies Project\bin\Debug\Cookies Project.pdb
+H:\Visual Basic\Chap09\Cookies Solution\Cookies Project\bin\Debug\Cookies Project.xml
+H:\Visual Basic\Chap09\Cookies Solution\Cookies Project\obj\Debug\Cookies Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap09\Cookies Solution\Cookies Project\obj\Debug\Cookies_Project.frmMain.resources
+H:\Visual Basic\Chap09\Cookies Solution\Cookies Project\obj\Debug\Cookies_Project.Resources.resources
+H:\Visual Basic\Chap09\Cookies Solution\Cookies Project\obj\Debug\Cookies Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap09\Cookies Solution\Cookies Project\obj\Debug\Cookies Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap09\Cookies Solution\Cookies Project\obj\Debug\Cookies Project.exe
+H:\Visual Basic\Chap09\Cookies Solution\Cookies Project\obj\Debug\Cookies Project.xml
+H:\Visual Basic\Chap09\Cookies Solution\Cookies Project\obj\Debug\Cookies Project.pdb

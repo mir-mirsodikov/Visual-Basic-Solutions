@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap09\Harkins Solution\Harkins Project\bin\Debug\Harkins Project.exe.config
+H:\Visual Basic\Chap09\Harkins Solution\Harkins Project\bin\Debug\Harkins Project.exe
+H:\Visual Basic\Chap09\Harkins Solution\Harkins Project\bin\Debug\Harkins Project.pdb
+H:\Visual Basic\Chap09\Harkins Solution\Harkins Project\bin\Debug\Harkins Project.xml
+H:\Visual Basic\Chap09\Harkins Solution\Harkins Project\obj\Debug\Harkins Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap09\Harkins Solution\Harkins Project\obj\Debug\Harkins_Project.frmMain.resources
+H:\Visual Basic\Chap09\Harkins Solution\Harkins Project\obj\Debug\Harkins_Project.Resources.resources
+H:\Visual Basic\Chap09\Harkins Solution\Harkins Project\obj\Debug\Harkins Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap09\Harkins Solution\Harkins Project\obj\Debug\Harkins Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap09\Harkins Solution\Harkins Project\obj\Debug\Harkins Project.exe
+H:\Visual Basic\Chap09\Harkins Solution\Harkins Project\obj\Debug\Harkins Project.xml
+H:\Visual Basic\Chap09\Harkins Solution\Harkins Project\obj\Debug\Harkins Project.pdb

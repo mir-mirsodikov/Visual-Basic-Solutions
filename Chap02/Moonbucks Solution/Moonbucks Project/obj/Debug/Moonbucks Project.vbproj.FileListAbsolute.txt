@@ -1,0 +1,24 @@
+H:\Visual Basic\Moonbucks Solution\Moonbucks Project\bin\Debug\Moonbucks Project.exe.config
+H:\Visual Basic\Moonbucks Solution\Moonbucks Project\bin\Debug\Moonbucks Project.exe
+H:\Visual Basic\Moonbucks Solution\Moonbucks Project\bin\Debug\Moonbucks Project.pdb
+H:\Visual Basic\Moonbucks Solution\Moonbucks Project\bin\Debug\Moonbucks Project.xml
+H:\Visual Basic\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks_Project.frmMain.resources
+H:\Visual Basic\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks_Project.Resources.resources
+H:\Visual Basic\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks Project.exe
+H:\Visual Basic\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks Project.xml
+H:\Visual Basic\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks Project.pdb
+H:\Visual Basic\Chap02\Moonbucks Solution\Moonbucks Project\bin\Debug\Moonbucks Project.exe.config
+H:\Visual Basic\Chap02\Moonbucks Solution\Moonbucks Project\bin\Debug\Moonbucks Project.exe
+H:\Visual Basic\Chap02\Moonbucks Solution\Moonbucks Project\bin\Debug\Moonbucks Project.pdb
+H:\Visual Basic\Chap02\Moonbucks Solution\Moonbucks Project\bin\Debug\Moonbucks Project.xml
+H:\Visual Basic\Chap02\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap02\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks_Project.frmMain.resources
+H:\Visual Basic\Chap02\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks_Project.Resources.resources
+H:\Visual Basic\Chap02\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap02\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap02\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks Project.exe
+H:\Visual Basic\Chap02\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks Project.xml
+H:\Visual Basic\Chap02\Moonbucks Solution\Moonbucks Project\obj\Debug\Moonbucks Project.pdb

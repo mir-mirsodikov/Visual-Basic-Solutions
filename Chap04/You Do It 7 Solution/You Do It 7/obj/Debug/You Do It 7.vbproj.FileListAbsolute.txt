@@ -1,0 +1,12 @@
+H:\Visual Basic\You Do It 7 Solution\You Do It 7\bin\Debug\You Do It 7.exe.config
+H:\Visual Basic\You Do It 7 Solution\You Do It 7\bin\Debug\You Do It 7.exe
+H:\Visual Basic\You Do It 7 Solution\You Do It 7\bin\Debug\You Do It 7.pdb
+H:\Visual Basic\You Do It 7 Solution\You Do It 7\bin\Debug\You Do It 7.xml
+H:\Visual Basic\You Do It 7 Solution\You Do It 7\obj\Debug\You Do It 7.vbprojAssemblyReference.cache
+H:\Visual Basic\You Do It 7 Solution\You Do It 7\obj\Debug\You_Do_It_7.frmMain.resources
+H:\Visual Basic\You Do It 7 Solution\You Do It 7\obj\Debug\You_Do_It_7.Resources.resources
+H:\Visual Basic\You Do It 7 Solution\You Do It 7\obj\Debug\You Do It 7.vbproj.GenerateResource.cache
+H:\Visual Basic\You Do It 7 Solution\You Do It 7\obj\Debug\You Do It 7.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\You Do It 7 Solution\You Do It 7\obj\Debug\You Do It 7.exe
+H:\Visual Basic\You Do It 7 Solution\You Do It 7\obj\Debug\You Do It 7.xml
+H:\Visual Basic\You Do It 7 Solution\You Do It 7\obj\Debug\You Do It 7.pdb

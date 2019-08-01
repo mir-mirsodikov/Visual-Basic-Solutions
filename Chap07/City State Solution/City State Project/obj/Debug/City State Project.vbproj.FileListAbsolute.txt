@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap07\City State Solution\City State Project\bin\Debug\City State Project.exe.config
+H:\Visual Basic\Chap07\City State Solution\City State Project\bin\Debug\City State Project.exe
+H:\Visual Basic\Chap07\City State Solution\City State Project\bin\Debug\City State Project.pdb
+H:\Visual Basic\Chap07\City State Solution\City State Project\bin\Debug\City State Project.xml
+H:\Visual Basic\Chap07\City State Solution\City State Project\obj\Debug\City State Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap07\City State Solution\City State Project\obj\Debug\City_State_Project.frmMain.resources
+H:\Visual Basic\Chap07\City State Solution\City State Project\obj\Debug\City_State_Project.Resources.resources
+H:\Visual Basic\Chap07\City State Solution\City State Project\obj\Debug\City State Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap07\City State Solution\City State Project\obj\Debug\City State Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap07\City State Solution\City State Project\obj\Debug\City State Project.exe
+H:\Visual Basic\Chap07\City State Solution\City State Project\obj\Debug\City State Project.xml
+H:\Visual Basic\Chap07\City State Solution\City State Project\obj\Debug\City State Project.pdb

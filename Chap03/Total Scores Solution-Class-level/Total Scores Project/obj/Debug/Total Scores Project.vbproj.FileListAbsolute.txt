@@ -1,0 +1,35 @@
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\bin\Debug\Total Scores Project.exe.config
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\bin\Debug\Total Scores Project.exe
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\bin\Debug\Total Scores Project.pdb
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\bin\Debug\Total Scores Project.xml
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total Scores Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total_Scores_Project.frmMain.resources
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total_Scores_Project.Resources.resources
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total Scores Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total Scores Project.exe
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total Scores Project.xml
+E:\VB2017\Chap03\Total Scores Solution\Total Scores Project\obj\Debug\Total Scores Project.pdb
+H:\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\bin\Debug\Total Scores Project.exe.config
+H:\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\bin\Debug\Total Scores Project.exe
+H:\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\bin\Debug\Total Scores Project.pdb
+H:\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\bin\Debug\Total Scores Project.xml
+H:\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total Scores Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total_Scores_Project.frmMain.resources
+H:\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total_Scores_Project.Resources.resources
+H:\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total Scores Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total Scores Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total Scores Project.exe
+H:\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total Scores Project.xml
+H:\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total Scores Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\bin\Debug\Total Scores Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\bin\Debug\Total Scores Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\bin\Debug\Total Scores Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\bin\Debug\Total Scores Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total Scores Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total_Scores_Project.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total_Scores_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total Scores Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total Scores Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total Scores Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total Scores Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Total Scores Solution-Class-level\Total Scores Project\obj\Debug\Total Scores Project.pdb

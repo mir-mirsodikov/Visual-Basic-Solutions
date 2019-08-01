@@ -1,0 +1,24 @@
+D:\Discount Solution\Discount Project\bin\Debug\Discount Project.exe.config
+D:\Discount Solution\Discount Project\bin\Debug\Discount Project.exe
+D:\Discount Solution\Discount Project\bin\Debug\Discount Project.pdb
+D:\Discount Solution\Discount Project\bin\Debug\Discount Project.xml
+D:\Discount Solution\Discount Project\obj\Debug\Discount Project.vbprojAssemblyReference.cache
+D:\Discount Solution\Discount Project\obj\Debug\Discount_Project.frmMain.resources
+D:\Discount Solution\Discount Project\obj\Debug\Discount_Project.Resources.resources
+D:\Discount Solution\Discount Project\obj\Debug\Discount Project.vbproj.GenerateResource.cache
+D:\Discount Solution\Discount Project\obj\Debug\Discount Project.vbproj.CoreCompileInputs.cache
+D:\Discount Solution\Discount Project\obj\Debug\Discount Project.exe
+D:\Discount Solution\Discount Project\obj\Debug\Discount Project.xml
+D:\Discount Solution\Discount Project\obj\Debug\Discount Project.pdb
+H:\Visual Basic\Chap05\Discount Solution\Discount Project\bin\Debug\Discount Project.exe.config
+H:\Visual Basic\Chap05\Discount Solution\Discount Project\bin\Debug\Discount Project.exe
+H:\Visual Basic\Chap05\Discount Solution\Discount Project\bin\Debug\Discount Project.pdb
+H:\Visual Basic\Chap05\Discount Solution\Discount Project\bin\Debug\Discount Project.xml
+H:\Visual Basic\Chap05\Discount Solution\Discount Project\obj\Debug\Discount Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap05\Discount Solution\Discount Project\obj\Debug\Discount_Project.frmMain.resources
+H:\Visual Basic\Chap05\Discount Solution\Discount Project\obj\Debug\Discount_Project.Resources.resources
+H:\Visual Basic\Chap05\Discount Solution\Discount Project\obj\Debug\Discount Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap05\Discount Solution\Discount Project\obj\Debug\Discount Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap05\Discount Solution\Discount Project\obj\Debug\Discount Project.exe
+H:\Visual Basic\Chap05\Discount Solution\Discount Project\obj\Debug\Discount Project.xml
+H:\Visual Basic\Chap05\Discount Solution\Discount Project\obj\Debug\Discount Project.pdb

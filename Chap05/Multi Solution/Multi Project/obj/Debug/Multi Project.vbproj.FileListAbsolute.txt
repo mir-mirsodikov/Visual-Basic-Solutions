@@ -1,0 +1,24 @@
+D:\Chap05\Multi Solution\Multi Project\bin\Debug\Multi Project.exe.config
+D:\Chap05\Multi Solution\Multi Project\bin\Debug\Multi Project.exe
+D:\Chap05\Multi Solution\Multi Project\bin\Debug\Multi Project.pdb
+D:\Chap05\Multi Solution\Multi Project\bin\Debug\Multi Project.xml
+D:\Chap05\Multi Solution\Multi Project\obj\Debug\Multi Project.vbprojAssemblyReference.cache
+D:\Chap05\Multi Solution\Multi Project\obj\Debug\Multi_Project.frmMain.resources
+D:\Chap05\Multi Solution\Multi Project\obj\Debug\Multi_Project.Resources.resources
+D:\Chap05\Multi Solution\Multi Project\obj\Debug\Multi Project.vbproj.GenerateResource.cache
+D:\Chap05\Multi Solution\Multi Project\obj\Debug\Multi Project.vbproj.CoreCompileInputs.cache
+D:\Chap05\Multi Solution\Multi Project\obj\Debug\Multi Project.exe
+D:\Chap05\Multi Solution\Multi Project\obj\Debug\Multi Project.xml
+D:\Chap05\Multi Solution\Multi Project\obj\Debug\Multi Project.pdb
+H:\Visual Basic\Chap05\Multi Solution\Multi Project\bin\Debug\Multi Project.exe.config
+H:\Visual Basic\Chap05\Multi Solution\Multi Project\bin\Debug\Multi Project.exe
+H:\Visual Basic\Chap05\Multi Solution\Multi Project\bin\Debug\Multi Project.pdb
+H:\Visual Basic\Chap05\Multi Solution\Multi Project\bin\Debug\Multi Project.xml
+H:\Visual Basic\Chap05\Multi Solution\Multi Project\obj\Debug\Multi Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap05\Multi Solution\Multi Project\obj\Debug\Multi_Project.frmMain.resources
+H:\Visual Basic\Chap05\Multi Solution\Multi Project\obj\Debug\Multi_Project.Resources.resources
+H:\Visual Basic\Chap05\Multi Solution\Multi Project\obj\Debug\Multi Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap05\Multi Solution\Multi Project\obj\Debug\Multi Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap05\Multi Solution\Multi Project\obj\Debug\Multi Project.exe
+H:\Visual Basic\Chap05\Multi Solution\Multi Project\obj\Debug\Multi Project.xml
+H:\Visual Basic\Chap05\Multi Solution\Multi Project\obj\Debug\Multi Project.pdb

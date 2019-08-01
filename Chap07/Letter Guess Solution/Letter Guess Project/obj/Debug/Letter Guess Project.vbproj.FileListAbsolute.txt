@@ -1,0 +1,35 @@
+E:\VB2017\Chap07\Letter Guess Solution\Letter Guess Project\bin\Debug\Letter Guess Project.exe.config
+E:\VB2017\Chap07\Letter Guess Solution\Letter Guess Project\bin\Debug\Letter Guess Project.exe
+E:\VB2017\Chap07\Letter Guess Solution\Letter Guess Project\bin\Debug\Letter Guess Project.pdb
+E:\VB2017\Chap07\Letter Guess Solution\Letter Guess Project\bin\Debug\Letter Guess Project.xml
+E:\VB2017\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter_Guess_Project.frmMain.resources
+E:\VB2017\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter_Guess_Project.Resources.resources
+E:\VB2017\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.exe
+E:\VB2017\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.xml
+E:\VB2017\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.pdb
+H:\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\bin\Debug\Letter Guess Project.exe.config
+H:\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\bin\Debug\Letter Guess Project.exe
+H:\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\bin\Debug\Letter Guess Project.pdb
+H:\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\bin\Debug\Letter Guess Project.xml
+H:\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter_Guess_Project.frmMain.resources
+H:\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter_Guess_Project.Resources.resources
+H:\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.exe
+H:\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.xml
+H:\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\bin\Debug\Letter Guess Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\bin\Debug\Letter Guess Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\bin\Debug\Letter Guess Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\bin\Debug\Letter Guess Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter_Guess_Project.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter_Guess_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Letter Guess Solution\Letter Guess Project\obj\Debug\Letter Guess Project.pdb

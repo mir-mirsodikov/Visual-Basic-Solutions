@@ -1,0 +1,12 @@
+D:\ch04\Canton Solution\Canton Project\bin\Debug\Canton Project.exe.config
+D:\ch04\Canton Solution\Canton Project\bin\Debug\Canton Project.exe
+D:\ch04\Canton Solution\Canton Project\bin\Debug\Canton Project.pdb
+D:\ch04\Canton Solution\Canton Project\bin\Debug\Canton Project.xml
+D:\ch04\Canton Solution\Canton Project\obj\Debug\Canton Project.vbprojAssemblyReference.cache
+D:\ch04\Canton Solution\Canton Project\obj\Debug\Canton_Project.frmMain.resources
+D:\ch04\Canton Solution\Canton Project\obj\Debug\Canton_Project.Resources.resources
+D:\ch04\Canton Solution\Canton Project\obj\Debug\Canton Project.vbproj.GenerateResource.cache
+D:\ch04\Canton Solution\Canton Project\obj\Debug\Canton Project.vbproj.CoreCompileInputs.cache
+D:\ch04\Canton Solution\Canton Project\obj\Debug\Canton Project.exe
+D:\ch04\Canton Solution\Canton Project\obj\Debug\Canton Project.xml
+D:\ch04\Canton Solution\Canton Project\obj\Debug\Canton Project.pdb

@@ -1,0 +1,12 @@
+D:\ch04\Genatone Solution\Genatone Project\bin\Debug\Genatone Project.exe.config
+D:\ch04\Genatone Solution\Genatone Project\bin\Debug\Genatone Project.exe
+D:\ch04\Genatone Solution\Genatone Project\bin\Debug\Genatone Project.pdb
+D:\ch04\Genatone Solution\Genatone Project\bin\Debug\Genatone Project.xml
+D:\ch04\Genatone Solution\Genatone Project\obj\Debug\Genatone Project.vbprojAssemblyReference.cache
+D:\ch04\Genatone Solution\Genatone Project\obj\Debug\Genatone_Project.frmMain.resources
+D:\ch04\Genatone Solution\Genatone Project\obj\Debug\Genatone_Project.Resources.resources
+D:\ch04\Genatone Solution\Genatone Project\obj\Debug\Genatone Project.vbproj.GenerateResource.cache
+D:\ch04\Genatone Solution\Genatone Project\obj\Debug\Genatone Project.vbproj.CoreCompileInputs.cache
+D:\ch04\Genatone Solution\Genatone Project\obj\Debug\Genatone Project.exe
+D:\ch04\Genatone Solution\Genatone Project\obj\Debug\Genatone Project.xml
+D:\ch04\Genatone Solution\Genatone Project\obj\Debug\Genatone Project.pdb

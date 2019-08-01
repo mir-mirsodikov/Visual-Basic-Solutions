@@ -1,0 +1,11 @@
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\bin\Debug\Lottery Project.exe.config
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\bin\Debug\Lottery Project.exe
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\bin\Debug\Lottery Project.pdb
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\bin\Debug\Lottery Project.xml
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\obj\Debug\Lottery Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\obj\Debug\Lottery_Project.frmMain.resources
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\obj\Debug\Lottery_Project.Resources.resources
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\obj\Debug\Lottery Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\obj\Debug\Lottery Project.exe
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\obj\Debug\Lottery Project.xml
+E:\VB2017\Chap08\Lottery Solution\Lottery Project\obj\Debug\Lottery Project.pdb

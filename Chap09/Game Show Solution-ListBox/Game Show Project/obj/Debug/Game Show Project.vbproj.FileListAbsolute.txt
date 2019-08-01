@@ -1,0 +1,34 @@
+E:\VB2017\Chap09\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.exe.config
+E:\VB2017\Chap09\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.exe
+E:\VB2017\Chap09\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.pdb
+E:\VB2017\Chap09\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.xml
+E:\VB2017\Chap09\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap09\Game Show Solution\Game Show Project\obj\Debug\Game_Show_Project.frmMain.resources
+E:\VB2017\Chap09\Game Show Solution\Game Show Project\obj\Debug\Game_Show_Project.Resources.resources
+E:\VB2017\Chap09\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap09\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.exe
+E:\VB2017\Chap09\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.xml
+E:\VB2017\Chap09\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.pdb
+E:\VB2017\Chap09\Data\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.exe.config
+E:\VB2017\Chap09\Data\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.exe
+E:\VB2017\Chap09\Data\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.pdb
+E:\VB2017\Chap09\Data\Game Show Solution\Game Show Project\bin\Debug\Game Show Project.xml
+E:\VB2017\Chap09\Data\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap09\Data\Game Show Solution\Game Show Project\obj\Debug\Game_Show_Project.frmMain.resources
+E:\VB2017\Chap09\Data\Game Show Solution\Game Show Project\obj\Debug\Game_Show_Project.Resources.resources
+E:\VB2017\Chap09\Data\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap09\Data\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.exe
+E:\VB2017\Chap09\Data\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.xml
+E:\VB2017\Chap09\Data\Game Show Solution\Game Show Project\obj\Debug\Game Show Project.pdb
+H:\Visual Basic\Chap09\Game Show Solution-ListBox\Game Show Project\bin\Debug\Game Show Project.exe.config
+H:\Visual Basic\Chap09\Game Show Solution-ListBox\Game Show Project\bin\Debug\Game Show Project.exe
+H:\Visual Basic\Chap09\Game Show Solution-ListBox\Game Show Project\bin\Debug\Game Show Project.pdb
+H:\Visual Basic\Chap09\Game Show Solution-ListBox\Game Show Project\bin\Debug\Game Show Project.xml
+H:\Visual Basic\Chap09\Game Show Solution-ListBox\Game Show Project\obj\Debug\Game Show Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap09\Game Show Solution-ListBox\Game Show Project\obj\Debug\Game_Show_Project.frmMain.resources
+H:\Visual Basic\Chap09\Game Show Solution-ListBox\Game Show Project\obj\Debug\Game_Show_Project.Resources.resources
+H:\Visual Basic\Chap09\Game Show Solution-ListBox\Game Show Project\obj\Debug\Game Show Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap09\Game Show Solution-ListBox\Game Show Project\obj\Debug\Game Show Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap09\Game Show Solution-ListBox\Game Show Project\obj\Debug\Game Show Project.exe
+H:\Visual Basic\Chap09\Game Show Solution-ListBox\Game Show Project\obj\Debug\Game Show Project.xml
+H:\Visual Basic\Chap09\Game Show Solution-ListBox\Game Show Project\obj\Debug\Game Show Project.pdb

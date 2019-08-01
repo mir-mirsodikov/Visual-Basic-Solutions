@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap09\Customer Solution\Customer Project\bin\Debug\Customer Project.exe.config
+H:\Visual Basic\Chap09\Customer Solution\Customer Project\bin\Debug\Customer Project.exe
+H:\Visual Basic\Chap09\Customer Solution\Customer Project\bin\Debug\Customer Project.pdb
+H:\Visual Basic\Chap09\Customer Solution\Customer Project\bin\Debug\Customer Project.xml
+H:\Visual Basic\Chap09\Customer Solution\Customer Project\obj\Debug\Customer Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap09\Customer Solution\Customer Project\obj\Debug\Customer_Project.frmMain.resources
+H:\Visual Basic\Chap09\Customer Solution\Customer Project\obj\Debug\Customer_Project.Resources.resources
+H:\Visual Basic\Chap09\Customer Solution\Customer Project\obj\Debug\Customer Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap09\Customer Solution\Customer Project\obj\Debug\Customer Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap09\Customer Solution\Customer Project\obj\Debug\Customer Project.exe
+H:\Visual Basic\Chap09\Customer Solution\Customer Project\obj\Debug\Customer Project.xml
+H:\Visual Basic\Chap09\Customer Solution\Customer Project\obj\Debug\Customer Project.pdb

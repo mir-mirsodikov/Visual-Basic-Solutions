@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap04\Baxters Solution\Baxters Project\bin\Debug\Baxters Project.exe.config
+H:\Visual Basic\Chap04\Baxters Solution\Baxters Project\bin\Debug\Baxters Project.exe
+H:\Visual Basic\Chap04\Baxters Solution\Baxters Project\bin\Debug\Baxters Project.pdb
+H:\Visual Basic\Chap04\Baxters Solution\Baxters Project\bin\Debug\Baxters Project.xml
+H:\Visual Basic\Chap04\Baxters Solution\Baxters Project\obj\Debug\Baxters Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap04\Baxters Solution\Baxters Project\obj\Debug\Baxters_Project.frmMain.resources
+H:\Visual Basic\Chap04\Baxters Solution\Baxters Project\obj\Debug\Baxters_Project.Resources.resources
+H:\Visual Basic\Chap04\Baxters Solution\Baxters Project\obj\Debug\Baxters Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap04\Baxters Solution\Baxters Project\obj\Debug\Baxters Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap04\Baxters Solution\Baxters Project\obj\Debug\Baxters Project.exe
+H:\Visual Basic\Chap04\Baxters Solution\Baxters Project\obj\Debug\Baxters Project.xml
+H:\Visual Basic\Chap04\Baxters Solution\Baxters Project\obj\Debug\Baxters Project.pdb

@@ -1,0 +1,46 @@
+E:\VB2017\Chap04\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.exe.config
+E:\VB2017\Chap04\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.exe
+E:\VB2017\Chap04\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.pdb
+E:\VB2017\Chap04\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.xml
+E:\VB2017\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton_Project.frmMain.resources
+E:\VB2017\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton_Project.Resources.resources
+E:\VB2017\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.exe
+E:\VB2017\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.xml
+E:\VB2017\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.pdb
+E:\VB2017\Chap04\Data\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.exe.config
+E:\VB2017\Chap04\Data\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.exe
+E:\VB2017\Chap04\Data\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.pdb
+E:\VB2017\Chap04\Data\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.xml
+E:\VB2017\Chap04\Data\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\Data\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton_Project.frmMain.resources
+E:\VB2017\Chap04\Data\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton_Project.Resources.resources
+E:\VB2017\Chap04\Data\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\Data\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.exe
+E:\VB2017\Chap04\Data\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.xml
+E:\VB2017\Chap04\Data\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.pdb
+H:\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.exe.config
+H:\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.exe
+H:\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.pdb
+H:\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.xml
+H:\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton_Project.frmMain.resources
+H:\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton_Project.Resources.resources
+H:\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.exe
+H:\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.xml
+H:\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\bin\Debug\RadioButton Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton_Project.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\RadioButton Solution\RadioButton Project\obj\Debug\RadioButton Project.pdb

@@ -1,0 +1,24 @@
+H:\Visual Basic\Chap06\Test 6-2\Test 6-2\bin\Debug\Test 6-2.exe.config
+H:\Visual Basic\Chap06\Test 6-2\Test 6-2\bin\Debug\Test 6-2.exe
+H:\Visual Basic\Chap06\Test 6-2\Test 6-2\bin\Debug\Test 6-2.pdb
+H:\Visual Basic\Chap06\Test 6-2\Test 6-2\bin\Debug\Test 6-2.xml
+H:\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test 6-2.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test_6_2.frmMain.resources
+H:\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test_6_2.Resources.resources
+H:\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test 6-2.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test 6-2.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test 6-2.exe
+H:\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test 6-2.xml
+H:\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test 6-2.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Test 6-2\Test 6-2\bin\Debug\Test 6-2.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Test 6-2\Test 6-2\bin\Debug\Test 6-2.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Test 6-2\Test 6-2\bin\Debug\Test 6-2.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Test 6-2\Test 6-2\bin\Debug\Test 6-2.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test 6-2.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test_6_2.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test_6_2.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test 6-2.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test 6-2.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test 6-2.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test 6-2.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Test 6-2\Test 6-2\obj\Debug\Test 6-2.pdb

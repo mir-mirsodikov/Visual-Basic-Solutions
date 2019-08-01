@@ -1,0 +1,23 @@
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\bin\Debug\Total Due Project.exe.config
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\bin\Debug\Total Due Project.exe
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\bin\Debug\Total Due Project.pdb
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\bin\Debug\Total Due Project.xml
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total Due Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total_Due_Project.frmMain.resources
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total_Due_Project.Resources.resources
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total Due Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total Due Project.exe
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total Due Project.xml
+E:\VB2017\Chap04\Total Due Solution\Total Due Project\obj\Debug\Total Due Project.pdb
+H:\Visual Basic\Chap04\Total Due Solution-KeyPress\Total Due Project\bin\Debug\Total Due Project.exe.config
+H:\Visual Basic\Chap04\Total Due Solution-KeyPress\Total Due Project\bin\Debug\Total Due Project.exe
+H:\Visual Basic\Chap04\Total Due Solution-KeyPress\Total Due Project\bin\Debug\Total Due Project.pdb
+H:\Visual Basic\Chap04\Total Due Solution-KeyPress\Total Due Project\bin\Debug\Total Due Project.xml
+H:\Visual Basic\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total_Due_Project.frmMain.resources
+H:\Visual Basic\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total_Due_Project.Resources.resources
+H:\Visual Basic\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.exe
+H:\Visual Basic\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.xml
+H:\Visual Basic\Chap04\Total Due Solution-KeyPress\Total Due Project\obj\Debug\Total Due Project.pdb

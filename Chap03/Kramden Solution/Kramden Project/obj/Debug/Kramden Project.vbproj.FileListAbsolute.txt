@@ -1,0 +1,48 @@
+H:\Visual Basic\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.exe.config
+H:\Visual Basic\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.exe
+H:\Visual Basic\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.pdb
+H:\Visual Basic\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.xml
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden_Project.frmMain.resources
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden_Project.Resources.resources
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.exe
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.xml
+H:\Visual Basic\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.pdb
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.exe.config
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.exe
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.pdb
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.xml
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden_Project.frmMain.resources
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden_Project.Resources.resources
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.exe
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.xml
+H:\Visual Basic\Chap02\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.pdb
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Kramden Solution\Kramden Project\obj\Debug\Kramden_Project.frmMain.resources
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Kramden Solution\Kramden Project\obj\Debug\Kramden_Project.Resources.resources
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.exe
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.xml
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.pdb
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.exe.config
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.exe
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.pdb
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Kramden Solution\Kramden Project\bin\Debug\Kramden Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Kramden Solution\Kramden Project\obj\Debug\Kramden_Project.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Kramden Solution\Kramden Project\obj\Debug\Kramden_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Kramden Solution\Kramden Project\obj\Debug\Kramden Project.pdb

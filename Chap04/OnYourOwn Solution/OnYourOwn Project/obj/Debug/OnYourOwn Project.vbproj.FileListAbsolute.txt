@@ -1,0 +1,24 @@
+D:\ch04\OnYourOwn Solution\OnYourOwn Project\bin\Debug\OnYourOwn Project.exe.config
+D:\ch04\OnYourOwn Solution\OnYourOwn Project\bin\Debug\OnYourOwn Project.exe
+D:\ch04\OnYourOwn Solution\OnYourOwn Project\bin\Debug\OnYourOwn Project.pdb
+D:\ch04\OnYourOwn Solution\OnYourOwn Project\bin\Debug\OnYourOwn Project.xml
+D:\ch04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbprojAssemblyReference.cache
+D:\ch04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn_Project.frmMain.resources
+D:\ch04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn_Project.Resources.resources
+D:\ch04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbproj.GenerateResource.cache
+D:\ch04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbproj.CoreCompileInputs.cache
+D:\ch04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.exe
+D:\ch04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.xml
+D:\ch04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.pdb
+H:\Visual Basic\Chap04\OnYourOwn Solution\OnYourOwn Project\bin\Debug\OnYourOwn Project.exe.config
+H:\Visual Basic\Chap04\OnYourOwn Solution\OnYourOwn Project\bin\Debug\OnYourOwn Project.exe
+H:\Visual Basic\Chap04\OnYourOwn Solution\OnYourOwn Project\bin\Debug\OnYourOwn Project.pdb
+H:\Visual Basic\Chap04\OnYourOwn Solution\OnYourOwn Project\bin\Debug\OnYourOwn Project.xml
+H:\Visual Basic\Chap04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn_Project.frmMain.resources
+H:\Visual Basic\Chap04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn_Project.Resources.resources
+H:\Visual Basic\Chap04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.exe
+H:\Visual Basic\Chap04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.xml
+H:\Visual Basic\Chap04\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.pdb

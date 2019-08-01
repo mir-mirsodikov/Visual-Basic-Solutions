@@ -1,0 +1,22 @@
+E:\VB2017\Chap05\Items Collection Solution\Items Collection Project\bin\Debug\Items Collection Project.exe.config
+E:\VB2017\Chap05\Items Collection Solution\Items Collection Project\bin\Debug\Items Collection Project.exe
+E:\VB2017\Chap05\Items Collection Solution\Items Collection Project\bin\Debug\Items Collection Project.pdb
+E:\VB2017\Chap05\Items Collection Solution\Items Collection Project\bin\Debug\Items Collection Project.xml
+E:\VB2017\Chap05\Items Collection Solution\Items Collection Project\obj\Debug\Items_Collection_Project.frmMain.resources
+E:\VB2017\Chap05\Items Collection Solution\Items Collection Project\obj\Debug\Items_Collection_Project.Resources.resources
+E:\VB2017\Chap05\Items Collection Solution\Items Collection Project\obj\Debug\Items Collection Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap05\Items Collection Solution\Items Collection Project\obj\Debug\Items Collection Project.exe
+E:\VB2017\Chap05\Items Collection Solution\Items Collection Project\obj\Debug\Items Collection Project.xml
+E:\VB2017\Chap05\Items Collection Solution\Items Collection Project\obj\Debug\Items Collection Project.pdb
+D:\Chap05\Items Collection Solution\Items Collection Project\bin\Debug\Items Collection Project.exe.config
+D:\Chap05\Items Collection Solution\Items Collection Project\bin\Debug\Items Collection Project.exe
+D:\Chap05\Items Collection Solution\Items Collection Project\bin\Debug\Items Collection Project.pdb
+D:\Chap05\Items Collection Solution\Items Collection Project\bin\Debug\Items Collection Project.xml
+D:\Chap05\Items Collection Solution\Items Collection Project\obj\Debug\Items Collection Project.vbprojAssemblyReference.cache
+D:\Chap05\Items Collection Solution\Items Collection Project\obj\Debug\Items_Collection_Project.frmMain.resources
+D:\Chap05\Items Collection Solution\Items Collection Project\obj\Debug\Items_Collection_Project.Resources.resources
+D:\Chap05\Items Collection Solution\Items Collection Project\obj\Debug\Items Collection Project.vbproj.GenerateResource.cache
+D:\Chap05\Items Collection Solution\Items Collection Project\obj\Debug\Items Collection Project.vbproj.CoreCompileInputs.cache
+D:\Chap05\Items Collection Solution\Items Collection Project\obj\Debug\Items Collection Project.exe
+D:\Chap05\Items Collection Solution\Items Collection Project\obj\Debug\Items Collection Project.xml
+D:\Chap05\Items Collection Solution\Items Collection Project\obj\Debug\Items Collection Project.pdb

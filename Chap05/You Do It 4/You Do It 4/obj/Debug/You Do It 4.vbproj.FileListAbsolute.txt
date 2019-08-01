@@ -1,0 +1,12 @@
+H:\Visual Basic\You Do It 4\You Do It 4\bin\Debug\You Do It 4.exe.config
+H:\Visual Basic\You Do It 4\You Do It 4\bin\Debug\You Do It 4.exe
+H:\Visual Basic\You Do It 4\You Do It 4\bin\Debug\You Do It 4.pdb
+H:\Visual Basic\You Do It 4\You Do It 4\bin\Debug\You Do It 4.xml
+H:\Visual Basic\You Do It 4\You Do It 4\obj\Debug\You Do It 4.vbprojAssemblyReference.cache
+H:\Visual Basic\You Do It 4\You Do It 4\obj\Debug\You_Do_It_4.frmMain.resources
+H:\Visual Basic\You Do It 4\You Do It 4\obj\Debug\You_Do_It_4.Resources.resources
+H:\Visual Basic\You Do It 4\You Do It 4\obj\Debug\You Do It 4.vbproj.GenerateResource.cache
+H:\Visual Basic\You Do It 4\You Do It 4\obj\Debug\You Do It 4.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\You Do It 4\You Do It 4\obj\Debug\You Do It 4.exe
+H:\Visual Basic\You Do It 4\You Do It 4\obj\Debug\You Do It 4.xml
+H:\Visual Basic\You Do It 4\You Do It 4\obj\Debug\You Do It 4.pdb

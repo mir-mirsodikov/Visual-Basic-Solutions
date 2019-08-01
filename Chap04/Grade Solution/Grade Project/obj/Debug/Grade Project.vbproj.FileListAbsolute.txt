@@ -1,0 +1,48 @@
+H:\Visual Basic\Chap02\Grade Solution\Grade Project\bin\Debug\Grade Project.exe.config
+H:\Visual Basic\Chap02\Grade Solution\Grade Project\bin\Debug\Grade Project.exe
+H:\Visual Basic\Chap02\Grade Solution\Grade Project\bin\Debug\Grade Project.pdb
+H:\Visual Basic\Chap02\Grade Solution\Grade Project\bin\Debug\Grade Project.xml
+H:\Visual Basic\Chap02\Grade Solution\Grade Project\obj\Debug\Grade Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap02\Grade Solution\Grade Project\obj\Debug\Grade_Project.frmMain.resources
+H:\Visual Basic\Chap02\Grade Solution\Grade Project\obj\Debug\Grade_Project.Resources.resources
+H:\Visual Basic\Chap02\Grade Solution\Grade Project\obj\Debug\Grade Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap02\Grade Solution\Grade Project\obj\Debug\Grade Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap02\Grade Solution\Grade Project\obj\Debug\Grade Project.exe
+H:\Visual Basic\Chap02\Grade Solution\Grade Project\obj\Debug\Grade Project.xml
+H:\Visual Basic\Chap02\Grade Solution\Grade Project\obj\Debug\Grade Project.pdb
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Grade Solution\Grade Project\bin\Debug\Grade Project.exe.config
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Grade Solution\Grade Project\bin\Debug\Grade Project.exe
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Grade Solution\Grade Project\bin\Debug\Grade Project.pdb
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Grade Solution\Grade Project\bin\Debug\Grade Project.xml
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Grade Solution\Grade Project\obj\Debug\Grade Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Grade Solution\Grade Project\obj\Debug\Grade_Project.frmMain.resources
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Grade Solution\Grade Project\obj\Debug\Grade_Project.Resources.resources
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Grade Solution\Grade Project\obj\Debug\Grade Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Grade Solution\Grade Project\obj\Debug\Grade Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Grade Solution\Grade Project\obj\Debug\Grade Project.exe
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Grade Solution\Grade Project\obj\Debug\Grade Project.xml
+H:\Visual Basic\Chap03\Chapter 2 Coded Programs\Grade Solution\Grade Project\obj\Debug\Grade Project.pdb
+H:\Visual Basic\Chap03\Grade Solution\Grade Project\bin\Debug\Grade Project.exe.config
+H:\Visual Basic\Chap03\Grade Solution\Grade Project\bin\Debug\Grade Project.exe
+H:\Visual Basic\Chap03\Grade Solution\Grade Project\bin\Debug\Grade Project.pdb
+H:\Visual Basic\Chap03\Grade Solution\Grade Project\bin\Debug\Grade Project.xml
+H:\Visual Basic\Chap03\Grade Solution\Grade Project\obj\Debug\Grade Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap03\Grade Solution\Grade Project\obj\Debug\Grade_Project.frmMain.resources
+H:\Visual Basic\Chap03\Grade Solution\Grade Project\obj\Debug\Grade_Project.Resources.resources
+H:\Visual Basic\Chap03\Grade Solution\Grade Project\obj\Debug\Grade Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap03\Grade Solution\Grade Project\obj\Debug\Grade Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap03\Grade Solution\Grade Project\obj\Debug\Grade Project.exe
+H:\Visual Basic\Chap03\Grade Solution\Grade Project\obj\Debug\Grade Project.xml
+H:\Visual Basic\Chap03\Grade Solution\Grade Project\obj\Debug\Grade Project.pdb
+H:\Visual Basic\Chap04\Grade Solution\Grade Project\bin\Debug\Grade Project.exe.config
+H:\Visual Basic\Chap04\Grade Solution\Grade Project\bin\Debug\Grade Project.exe
+H:\Visual Basic\Chap04\Grade Solution\Grade Project\bin\Debug\Grade Project.pdb
+H:\Visual Basic\Chap04\Grade Solution\Grade Project\bin\Debug\Grade Project.xml
+H:\Visual Basic\Chap04\Grade Solution\Grade Project\obj\Debug\Grade Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap04\Grade Solution\Grade Project\obj\Debug\Grade_Project.frmMain.resources
+H:\Visual Basic\Chap04\Grade Solution\Grade Project\obj\Debug\Grade_Project.Resources.resources
+H:\Visual Basic\Chap04\Grade Solution\Grade Project\obj\Debug\Grade Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap04\Grade Solution\Grade Project\obj\Debug\Grade Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap04\Grade Solution\Grade Project\obj\Debug\Grade Project.exe
+H:\Visual Basic\Chap04\Grade Solution\Grade Project\obj\Debug\Grade Project.xml
+H:\Visual Basic\Chap04\Grade Solution\Grade Project\obj\Debug\Grade Project.pdb

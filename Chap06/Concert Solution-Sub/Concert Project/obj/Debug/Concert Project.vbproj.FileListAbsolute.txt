@@ -1,0 +1,35 @@
+E:\VB2017\Chap06\Concert Solution\Concert Project\bin\Debug\Concert Project.exe.config
+E:\VB2017\Chap06\Concert Solution\Concert Project\bin\Debug\Concert Project.exe
+E:\VB2017\Chap06\Concert Solution\Concert Project\bin\Debug\Concert Project.pdb
+E:\VB2017\Chap06\Concert Solution\Concert Project\bin\Debug\Concert Project.xml
+E:\VB2017\Chap06\Concert Solution\Concert Project\obj\Debug\Concert Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap06\Concert Solution\Concert Project\obj\Debug\Concert_Project.frmMain.resources
+E:\VB2017\Chap06\Concert Solution\Concert Project\obj\Debug\Concert_Project.Resources.resources
+E:\VB2017\Chap06\Concert Solution\Concert Project\obj\Debug\Concert Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap06\Concert Solution\Concert Project\obj\Debug\Concert Project.exe
+E:\VB2017\Chap06\Concert Solution\Concert Project\obj\Debug\Concert Project.xml
+E:\VB2017\Chap06\Concert Solution\Concert Project\obj\Debug\Concert Project.pdb
+H:\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.exe.config
+H:\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.exe
+H:\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.pdb
+H:\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.xml
+H:\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert_Project.frmMain.resources
+H:\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert_Project.Resources.resources
+H:\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.exe
+H:\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.xml
+H:\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\bin\Debug\Concert Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert_Project.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Concert Solution-Sub\Concert Project\obj\Debug\Concert Project.pdb

@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap06\Donut Solution\Donut Project\bin\Debug\Donut Project.exe.config
+H:\Visual Basic\Chap06\Donut Solution\Donut Project\bin\Debug\Donut Project.exe
+H:\Visual Basic\Chap06\Donut Solution\Donut Project\bin\Debug\Donut Project.pdb
+H:\Visual Basic\Chap06\Donut Solution\Donut Project\bin\Debug\Donut Project.xml
+H:\Visual Basic\Chap06\Donut Solution\Donut Project\obj\Debug\Donut Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap06\Donut Solution\Donut Project\obj\Debug\Donut_Project.frmMain.resources
+H:\Visual Basic\Chap06\Donut Solution\Donut Project\obj\Debug\Donut_Project.Resources.resources
+H:\Visual Basic\Chap06\Donut Solution\Donut Project\obj\Debug\Donut Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap06\Donut Solution\Donut Project\obj\Debug\Donut Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap06\Donut Solution\Donut Project\obj\Debug\Donut Project.exe
+H:\Visual Basic\Chap06\Donut Solution\Donut Project\obj\Debug\Donut Project.xml
+H:\Visual Basic\Chap06\Donut Solution\Donut Project\obj\Debug\Donut Project.pdb

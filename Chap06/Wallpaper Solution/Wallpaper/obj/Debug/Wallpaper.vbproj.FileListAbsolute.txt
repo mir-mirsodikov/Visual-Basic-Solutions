@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap06\Wallpaper Solution\Wallpaper\bin\Debug\Wallpaper.exe.config
+H:\Visual Basic\Chap06\Wallpaper Solution\Wallpaper\bin\Debug\Wallpaper.exe
+H:\Visual Basic\Chap06\Wallpaper Solution\Wallpaper\bin\Debug\Wallpaper.pdb
+H:\Visual Basic\Chap06\Wallpaper Solution\Wallpaper\bin\Debug\Wallpaper.xml
+H:\Visual Basic\Chap06\Wallpaper Solution\Wallpaper\obj\Debug\Wallpaper.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap06\Wallpaper Solution\Wallpaper\obj\Debug\Wallpaper.frmMain.resources
+H:\Visual Basic\Chap06\Wallpaper Solution\Wallpaper\obj\Debug\Wallpaper.Resources.resources
+H:\Visual Basic\Chap06\Wallpaper Solution\Wallpaper\obj\Debug\Wallpaper.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap06\Wallpaper Solution\Wallpaper\obj\Debug\Wallpaper.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap06\Wallpaper Solution\Wallpaper\obj\Debug\Wallpaper.exe
+H:\Visual Basic\Chap06\Wallpaper Solution\Wallpaper\obj\Debug\Wallpaper.xml
+H:\Visual Basic\Chap06\Wallpaper Solution\Wallpaper\obj\Debug\Wallpaper.pdb

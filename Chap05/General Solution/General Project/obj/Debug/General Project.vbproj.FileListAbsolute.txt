@@ -1,0 +1,24 @@
+D:\Chap05\General Solution\General Project\bin\Debug\General Project.exe.config
+D:\Chap05\General Solution\General Project\bin\Debug\General Project.exe
+D:\Chap05\General Solution\General Project\bin\Debug\General Project.pdb
+D:\Chap05\General Solution\General Project\bin\Debug\General Project.xml
+D:\Chap05\General Solution\General Project\obj\Debug\General Project.vbprojAssemblyReference.cache
+D:\Chap05\General Solution\General Project\obj\Debug\General_Project.frmMain.resources
+D:\Chap05\General Solution\General Project\obj\Debug\General_Project.Resources.resources
+D:\Chap05\General Solution\General Project\obj\Debug\General Project.vbproj.GenerateResource.cache
+D:\Chap05\General Solution\General Project\obj\Debug\General Project.vbproj.CoreCompileInputs.cache
+D:\Chap05\General Solution\General Project\obj\Debug\General Project.exe
+D:\Chap05\General Solution\General Project\obj\Debug\General Project.xml
+D:\Chap05\General Solution\General Project\obj\Debug\General Project.pdb
+H:\Visual Basic\Chap05\General Solution\General Project\bin\Debug\General Project.exe.config
+H:\Visual Basic\Chap05\General Solution\General Project\bin\Debug\General Project.exe
+H:\Visual Basic\Chap05\General Solution\General Project\bin\Debug\General Project.pdb
+H:\Visual Basic\Chap05\General Solution\General Project\bin\Debug\General Project.xml
+H:\Visual Basic\Chap05\General Solution\General Project\obj\Debug\General Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap05\General Solution\General Project\obj\Debug\General_Project.frmMain.resources
+H:\Visual Basic\Chap05\General Solution\General Project\obj\Debug\General_Project.Resources.resources
+H:\Visual Basic\Chap05\General Solution\General Project\obj\Debug\General Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap05\General Solution\General Project\obj\Debug\General Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap05\General Solution\General Project\obj\Debug\General Project.exe
+H:\Visual Basic\Chap05\General Solution\General Project\obj\Debug\General Project.xml
+H:\Visual Basic\Chap05\General Solution\General Project\obj\Debug\General Project.pdb

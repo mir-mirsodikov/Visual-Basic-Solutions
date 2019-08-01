@@ -1,0 +1,35 @@
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe.config
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.pdb
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.xml
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.frmMain.resources
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.Resources.resources
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.exe
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.xml
+E:\VB2017\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.pdb
+H:\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe.config
+H:\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe
+H:\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.pdb
+H:\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.xml
+H:\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.frmMain.resources
+H:\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.Resources.resources
+H:\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.exe
+H:\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.xml
+H:\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\bin\Debug\Cerruti Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap06\Cerruti Solution\Cerruti Project\obj\Debug\Cerruti Project.pdb

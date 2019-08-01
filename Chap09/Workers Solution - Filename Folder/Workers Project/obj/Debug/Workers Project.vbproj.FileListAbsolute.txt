@@ -1,0 +1,24 @@
+H:\Visual Basic\Chap09\Workers Solution\Workers Project\bin\Debug\Workers Project.exe.config
+H:\Visual Basic\Chap09\Workers Solution\Workers Project\bin\Debug\Workers Project.exe
+H:\Visual Basic\Chap09\Workers Solution\Workers Project\bin\Debug\Workers Project.pdb
+H:\Visual Basic\Chap09\Workers Solution\Workers Project\bin\Debug\Workers Project.xml
+H:\Visual Basic\Chap09\Workers Solution\Workers Project\obj\Debug\Workers Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap09\Workers Solution\Workers Project\obj\Debug\Workers_Project.frmMain.resources
+H:\Visual Basic\Chap09\Workers Solution\Workers Project\obj\Debug\Workers_Project.Resources.resources
+H:\Visual Basic\Chap09\Workers Solution\Workers Project\obj\Debug\Workers Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap09\Workers Solution\Workers Project\obj\Debug\Workers Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap09\Workers Solution\Workers Project\obj\Debug\Workers Project.exe
+H:\Visual Basic\Chap09\Workers Solution\Workers Project\obj\Debug\Workers Project.xml
+H:\Visual Basic\Chap09\Workers Solution\Workers Project\obj\Debug\Workers Project.pdb
+H:\Visual Basic\Chap09\Workers Solution - Filename Folder\Workers Project\bin\Debug\Workers Project.exe.config
+H:\Visual Basic\Chap09\Workers Solution - Filename Folder\Workers Project\bin\Debug\Workers Project.exe
+H:\Visual Basic\Chap09\Workers Solution - Filename Folder\Workers Project\bin\Debug\Workers Project.pdb
+H:\Visual Basic\Chap09\Workers Solution - Filename Folder\Workers Project\bin\Debug\Workers Project.xml
+H:\Visual Basic\Chap09\Workers Solution - Filename Folder\Workers Project\obj\Debug\Workers Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap09\Workers Solution - Filename Folder\Workers Project\obj\Debug\Workers_Project.frmMain.resources
+H:\Visual Basic\Chap09\Workers Solution - Filename Folder\Workers Project\obj\Debug\Workers_Project.Resources.resources
+H:\Visual Basic\Chap09\Workers Solution - Filename Folder\Workers Project\obj\Debug\Workers Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap09\Workers Solution - Filename Folder\Workers Project\obj\Debug\Workers Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap09\Workers Solution - Filename Folder\Workers Project\obj\Debug\Workers Project.exe
+H:\Visual Basic\Chap09\Workers Solution - Filename Folder\Workers Project\obj\Debug\Workers Project.xml
+H:\Visual Basic\Chap09\Workers Solution - Filename Folder\Workers Project\obj\Debug\Workers Project.pdb

@@ -1,0 +1,11 @@
+E:\VB2017\Chap09\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.exe.config
+E:\VB2017\Chap09\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.exe
+E:\VB2017\Chap09\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.pdb
+E:\VB2017\Chap09\FixIt Solution\FixIt Project\bin\Debug\FixIt Project.xml
+E:\VB2017\Chap09\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap09\FixIt Solution\FixIt Project\obj\Debug\FixIt_Project.frmMain.resources
+E:\VB2017\Chap09\FixIt Solution\FixIt Project\obj\Debug\FixIt_Project.Resources.resources
+E:\VB2017\Chap09\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap09\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.exe
+E:\VB2017\Chap09\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.xml
+E:\VB2017\Chap09\FixIt Solution\FixIt Project\obj\Debug\FixIt Project.pdb

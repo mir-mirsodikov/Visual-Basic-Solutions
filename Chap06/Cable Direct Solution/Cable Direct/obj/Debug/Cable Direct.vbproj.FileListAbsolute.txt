@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap06\Cable Direct Solution\Cable Direct\bin\Debug\Cable Direct.exe.config
+H:\Visual Basic\Chap06\Cable Direct Solution\Cable Direct\bin\Debug\Cable Direct.exe
+H:\Visual Basic\Chap06\Cable Direct Solution\Cable Direct\bin\Debug\Cable Direct.pdb
+H:\Visual Basic\Chap06\Cable Direct Solution\Cable Direct\bin\Debug\Cable Direct.xml
+H:\Visual Basic\Chap06\Cable Direct Solution\Cable Direct\obj\Debug\Cable Direct.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap06\Cable Direct Solution\Cable Direct\obj\Debug\Cable_Direct.frmMain.resources
+H:\Visual Basic\Chap06\Cable Direct Solution\Cable Direct\obj\Debug\Cable_Direct.Resources.resources
+H:\Visual Basic\Chap06\Cable Direct Solution\Cable Direct\obj\Debug\Cable Direct.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap06\Cable Direct Solution\Cable Direct\obj\Debug\Cable Direct.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap06\Cable Direct Solution\Cable Direct\obj\Debug\Cable Direct.exe
+H:\Visual Basic\Chap06\Cable Direct Solution\Cable Direct\obj\Debug\Cable Direct.xml
+H:\Visual Basic\Chap06\Cable Direct Solution\Cable Direct\obj\Debug\Cable Direct.pdb

@@ -1,0 +1,12 @@
+H:\Visual Basic\OnYourOwn Solution\OnYourOwn Project\bin\Debug\OnYourOwn Project.exe.config
+H:\Visual Basic\OnYourOwn Solution\OnYourOwn Project\bin\Debug\OnYourOwn Project.exe
+H:\Visual Basic\OnYourOwn Solution\OnYourOwn Project\bin\Debug\OnYourOwn Project.pdb
+H:\Visual Basic\OnYourOwn Solution\OnYourOwn Project\bin\Debug\OnYourOwn Project.xml
+H:\Visual Basic\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbprojAssemblyReference.cache
+H:\Visual Basic\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn_Project.Form1.resources
+H:\Visual Basic\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn_Project.Resources.resources
+H:\Visual Basic\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbproj.GenerateResource.cache
+H:\Visual Basic\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.exe
+H:\Visual Basic\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.xml
+H:\Visual Basic\OnYourOwn Solution\OnYourOwn Project\obj\Debug\OnYourOwn Project.pdb

@@ -1,0 +1,22 @@
+E:\VB2017\Chap09\Data\Continents Solution\Continents Project\obj\Debug\Continents Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap09\Data\Continents Solution\Continents Project\bin\Debug\Continents Project.exe.config
+E:\VB2017\Chap09\Data\Continents Solution\Continents Project\bin\Debug\Continents Project.exe
+E:\VB2017\Chap09\Data\Continents Solution\Continents Project\bin\Debug\Continents Project.pdb
+E:\VB2017\Chap09\Data\Continents Solution\Continents Project\bin\Debug\Continents Project.xml
+E:\VB2017\Chap09\Data\Continents Solution\Continents Project\obj\Debug\Continents_Project.frmMain.resources
+E:\VB2017\Chap09\Data\Continents Solution\Continents Project\obj\Debug\Continents_Project.Resources.resources
+E:\VB2017\Chap09\Data\Continents Solution\Continents Project\obj\Debug\Continents Project.exe
+E:\VB2017\Chap09\Data\Continents Solution\Continents Project\obj\Debug\Continents Project.xml
+E:\VB2017\Chap09\Data\Continents Solution\Continents Project\obj\Debug\Continents Project.pdb
+H:\Visual Basic\Chap09\Continents Solution\Continents Project\bin\Debug\Continents Project.exe.config
+H:\Visual Basic\Chap09\Continents Solution\Continents Project\bin\Debug\Continents Project.exe
+H:\Visual Basic\Chap09\Continents Solution\Continents Project\bin\Debug\Continents Project.pdb
+H:\Visual Basic\Chap09\Continents Solution\Continents Project\bin\Debug\Continents Project.xml
+H:\Visual Basic\Chap09\Continents Solution\Continents Project\obj\Debug\Continents Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap09\Continents Solution\Continents Project\obj\Debug\Continents_Project.frmMain.resources
+H:\Visual Basic\Chap09\Continents Solution\Continents Project\obj\Debug\Continents_Project.Resources.resources
+H:\Visual Basic\Chap09\Continents Solution\Continents Project\obj\Debug\Continents Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap09\Continents Solution\Continents Project\obj\Debug\Continents Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap09\Continents Solution\Continents Project\obj\Debug\Continents Project.exe
+H:\Visual Basic\Chap09\Continents Solution\Continents Project\obj\Debug\Continents Project.xml
+H:\Visual Basic\Chap09\Continents Solution\Continents Project\obj\Debug\Continents Project.pdb

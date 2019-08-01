@@ -1,0 +1,12 @@
+D:\Chap05\Salary Solution\Salary Project\bin\Debug\Salary Project.exe.config
+D:\Chap05\Salary Solution\Salary Project\bin\Debug\Salary Project.exe
+D:\Chap05\Salary Solution\Salary Project\bin\Debug\Salary Project.pdb
+D:\Chap05\Salary Solution\Salary Project\bin\Debug\Salary Project.xml
+D:\Chap05\Salary Solution\Salary Project\obj\Debug\Salary Project.vbprojAssemblyReference.cache
+D:\Chap05\Salary Solution\Salary Project\obj\Debug\Salary_Project.frmMain.resources
+D:\Chap05\Salary Solution\Salary Project\obj\Debug\Salary_Project.Resources.resources
+D:\Chap05\Salary Solution\Salary Project\obj\Debug\Salary Project.vbproj.GenerateResource.cache
+D:\Chap05\Salary Solution\Salary Project\obj\Debug\Salary Project.vbproj.CoreCompileInputs.cache
+D:\Chap05\Salary Solution\Salary Project\obj\Debug\Salary Project.exe
+D:\Chap05\Salary Solution\Salary Project\obj\Debug\Salary Project.xml
+D:\Chap05\Salary Solution\Salary Project\obj\Debug\Salary Project.pdb

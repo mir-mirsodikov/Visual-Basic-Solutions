@@ -1,0 +1,12 @@
+C:\Users\mirka\Documents\VB\Sales Solution\Sales Project\bin\Debug\Sales Project.exe.config
+C:\Users\mirka\Documents\VB\Sales Solution\Sales Project\bin\Debug\Sales Project.exe
+C:\Users\mirka\Documents\VB\Sales Solution\Sales Project\bin\Debug\Sales Project.pdb
+C:\Users\mirka\Documents\VB\Sales Solution\Sales Project\bin\Debug\Sales Project.xml
+C:\Users\mirka\Documents\VB\Sales Solution\Sales Project\obj\Debug\Sales Project.vbprojAssemblyReference.cache
+C:\Users\mirka\Documents\VB\Sales Solution\Sales Project\obj\Debug\Sales_Project.frmMain.resources
+C:\Users\mirka\Documents\VB\Sales Solution\Sales Project\obj\Debug\Sales_Project.Resources.resources
+C:\Users\mirka\Documents\VB\Sales Solution\Sales Project\obj\Debug\Sales Project.vbproj.GenerateResource.cache
+C:\Users\mirka\Documents\VB\Sales Solution\Sales Project\obj\Debug\Sales Project.vbproj.CoreCompileInputs.cache
+C:\Users\mirka\Documents\VB\Sales Solution\Sales Project\obj\Debug\Sales Project.exe
+C:\Users\mirka\Documents\VB\Sales Solution\Sales Project\obj\Debug\Sales Project.xml
+C:\Users\mirka\Documents\VB\Sales Solution\Sales Project\obj\Debug\Sales Project.pdb

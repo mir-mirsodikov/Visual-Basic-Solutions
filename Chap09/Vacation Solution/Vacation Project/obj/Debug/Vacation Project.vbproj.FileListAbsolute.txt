@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap09\Vacation Solution\Vacation Project\bin\Debug\Vacation Project.exe.config
+H:\Visual Basic\Chap09\Vacation Solution\Vacation Project\bin\Debug\Vacation Project.exe
+H:\Visual Basic\Chap09\Vacation Solution\Vacation Project\bin\Debug\Vacation Project.pdb
+H:\Visual Basic\Chap09\Vacation Solution\Vacation Project\bin\Debug\Vacation Project.xml
+H:\Visual Basic\Chap09\Vacation Solution\Vacation Project\obj\Debug\Vacation Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap09\Vacation Solution\Vacation Project\obj\Debug\Vacation_Project.frmMain.resources
+H:\Visual Basic\Chap09\Vacation Solution\Vacation Project\obj\Debug\Vacation_Project.Resources.resources
+H:\Visual Basic\Chap09\Vacation Solution\Vacation Project\obj\Debug\Vacation Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap09\Vacation Solution\Vacation Project\obj\Debug\Vacation Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap09\Vacation Solution\Vacation Project\obj\Debug\Vacation Project.exe
+H:\Visual Basic\Chap09\Vacation Solution\Vacation Project\obj\Debug\Vacation Project.xml
+H:\Visual Basic\Chap09\Vacation Solution\Vacation Project\obj\Debug\Vacation Project.pdb

@@ -1,0 +1,11 @@
+E:\VB2017\Chap08\You Do It 6 Solution\You Do It 6 Project\bin\Debug\You Do It 6 Project.exe.config
+E:\VB2017\Chap08\You Do It 6 Solution\You Do It 6 Project\bin\Debug\You Do It 6 Project.exe
+E:\VB2017\Chap08\You Do It 6 Solution\You Do It 6 Project\bin\Debug\You Do It 6 Project.pdb
+E:\VB2017\Chap08\You Do It 6 Solution\You Do It 6 Project\bin\Debug\You Do It 6 Project.xml
+E:\VB2017\Chap08\You Do It 6 Solution\You Do It 6 Project\obj\Debug\You Do It 6 Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap08\You Do It 6 Solution\You Do It 6 Project\obj\Debug\You_Do_It_6_Project.Form1.resources
+E:\VB2017\Chap08\You Do It 6 Solution\You Do It 6 Project\obj\Debug\You_Do_It_6_Project.Resources.resources
+E:\VB2017\Chap08\You Do It 6 Solution\You Do It 6 Project\obj\Debug\You Do It 6 Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap08\You Do It 6 Solution\You Do It 6 Project\obj\Debug\You Do It 6 Project.exe
+E:\VB2017\Chap08\You Do It 6 Solution\You Do It 6 Project\obj\Debug\You Do It 6 Project.xml
+E:\VB2017\Chap08\You Do It 6 Solution\You Do It 6 Project\obj\Debug\You Do It 6 Project.pdb

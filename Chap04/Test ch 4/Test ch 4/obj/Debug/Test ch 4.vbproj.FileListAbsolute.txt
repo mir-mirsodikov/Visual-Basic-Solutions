@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap04\Test ch 4\Test ch 4\bin\Debug\Test ch 4.exe.config
+H:\Visual Basic\Chap04\Test ch 4\Test ch 4\bin\Debug\Test ch 4.exe
+H:\Visual Basic\Chap04\Test ch 4\Test ch 4\bin\Debug\Test ch 4.pdb
+H:\Visual Basic\Chap04\Test ch 4\Test ch 4\bin\Debug\Test ch 4.xml
+H:\Visual Basic\Chap04\Test ch 4\Test ch 4\obj\Debug\Test ch 4.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap04\Test ch 4\Test ch 4\obj\Debug\Test_ch_4.frmMain.resources
+H:\Visual Basic\Chap04\Test ch 4\Test ch 4\obj\Debug\Test_ch_4.Resources.resources
+H:\Visual Basic\Chap04\Test ch 4\Test ch 4\obj\Debug\Test ch 4.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap04\Test ch 4\Test ch 4\obj\Debug\Test ch 4.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap04\Test ch 4\Test ch 4\obj\Debug\Test ch 4.exe
+H:\Visual Basic\Chap04\Test ch 4\Test ch 4\obj\Debug\Test ch 4.xml
+H:\Visual Basic\Chap04\Test ch 4\Test ch 4\obj\Debug\Test ch 4.pdb

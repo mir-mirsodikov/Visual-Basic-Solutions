@@ -1,0 +1,11 @@
+E:\VB2017\Chap08\Kraston Solution\Kraston Project\bin\Debug\Kraston Project.exe.config
+E:\VB2017\Chap08\Kraston Solution\Kraston Project\bin\Debug\Kraston Project.exe
+E:\VB2017\Chap08\Kraston Solution\Kraston Project\bin\Debug\Kraston Project.pdb
+E:\VB2017\Chap08\Kraston Solution\Kraston Project\bin\Debug\Kraston Project.xml
+E:\VB2017\Chap08\Kraston Solution\Kraston Project\obj\Debug\Kraston Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap08\Kraston Solution\Kraston Project\obj\Debug\Kraston_Project.frmMain.resources
+E:\VB2017\Chap08\Kraston Solution\Kraston Project\obj\Debug\Kraston_Project.Resources.resources
+E:\VB2017\Chap08\Kraston Solution\Kraston Project\obj\Debug\Kraston Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap08\Kraston Solution\Kraston Project\obj\Debug\Kraston Project.exe
+E:\VB2017\Chap08\Kraston Solution\Kraston Project\obj\Debug\Kraston Project.xml
+E:\VB2017\Chap08\Kraston Solution\Kraston Project\obj\Debug\Kraston Project.pdb

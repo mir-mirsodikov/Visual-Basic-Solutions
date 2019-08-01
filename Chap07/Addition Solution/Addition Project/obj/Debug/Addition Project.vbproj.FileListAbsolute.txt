@@ -1,0 +1,11 @@
+E:\VB2017\Chap07\Addition Solution\Addition Project\bin\Debug\Addition Project.exe.config
+E:\VB2017\Chap07\Addition Solution\Addition Project\bin\Debug\Addition Project.exe
+E:\VB2017\Chap07\Addition Solution\Addition Project\bin\Debug\Addition Project.pdb
+E:\VB2017\Chap07\Addition Solution\Addition Project\bin\Debug\Addition Project.xml
+E:\VB2017\Chap07\Addition Solution\Addition Project\obj\Debug\Addition Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap07\Addition Solution\Addition Project\obj\Debug\Addition_Project.frmMain.resources
+E:\VB2017\Chap07\Addition Solution\Addition Project\obj\Debug\Addition_Project.Resources.resources
+E:\VB2017\Chap07\Addition Solution\Addition Project\obj\Debug\Addition Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap07\Addition Solution\Addition Project\obj\Debug\Addition Project.exe
+E:\VB2017\Chap07\Addition Solution\Addition Project\obj\Debug\Addition Project.xml
+E:\VB2017\Chap07\Addition Solution\Addition Project\obj\Debug\Addition Project.pdb

@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap06\Mats Solution\Mats Project\bin\Debug\Mats Project.exe.config
+H:\Visual Basic\Chap06\Mats Solution\Mats Project\bin\Debug\Mats Project.exe
+H:\Visual Basic\Chap06\Mats Solution\Mats Project\bin\Debug\Mats Project.pdb
+H:\Visual Basic\Chap06\Mats Solution\Mats Project\bin\Debug\Mats Project.xml
+H:\Visual Basic\Chap06\Mats Solution\Mats Project\obj\Debug\Mats Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap06\Mats Solution\Mats Project\obj\Debug\Mats_Project.frmMain.resources
+H:\Visual Basic\Chap06\Mats Solution\Mats Project\obj\Debug\Mats_Project.Resources.resources
+H:\Visual Basic\Chap06\Mats Solution\Mats Project\obj\Debug\Mats Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap06\Mats Solution\Mats Project\obj\Debug\Mats Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap06\Mats Solution\Mats Project\obj\Debug\Mats Project.exe
+H:\Visual Basic\Chap06\Mats Solution\Mats Project\obj\Debug\Mats Project.xml
+H:\Visual Basic\Chap06\Mats Solution\Mats Project\obj\Debug\Mats Project.pdb

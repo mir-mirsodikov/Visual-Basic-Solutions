@@ -1,0 +1,35 @@
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\bin\Debug\Schneider Project.exe.config
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\bin\Debug\Schneider Project.exe
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\bin\Debug\Schneider Project.pdb
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\bin\Debug\Schneider Project.xml
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider_Project.frmMain.resources
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider_Project.Resources.resources
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.exe
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.xml
+E:\VB2017\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.pdb
+H:\Visual Basic\Chap08\Schneider Solution\Schneider Project\bin\Debug\Schneider Project.exe.config
+H:\Visual Basic\Chap08\Schneider Solution\Schneider Project\bin\Debug\Schneider Project.exe
+H:\Visual Basic\Chap08\Schneider Solution\Schneider Project\bin\Debug\Schneider Project.pdb
+H:\Visual Basic\Chap08\Schneider Solution\Schneider Project\bin\Debug\Schneider Project.xml
+H:\Visual Basic\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider_Project.frmMain.resources
+H:\Visual Basic\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider_Project.Resources.resources
+H:\Visual Basic\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.exe
+H:\Visual Basic\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.xml
+H:\Visual Basic\Chap08\Schneider Solution\Schneider Project\obj\Debug\Schneider Project.pdb
+H:\Visual Basic\Chap08\Schneider Solution - Copy  Correct\Schneider Project\bin\Debug\Schneider Project.exe.config
+H:\Visual Basic\Chap08\Schneider Solution - Copy  Correct\Schneider Project\bin\Debug\Schneider Project.exe
+H:\Visual Basic\Chap08\Schneider Solution - Copy  Correct\Schneider Project\bin\Debug\Schneider Project.pdb
+H:\Visual Basic\Chap08\Schneider Solution - Copy  Correct\Schneider Project\bin\Debug\Schneider Project.xml
+H:\Visual Basic\Chap08\Schneider Solution - Copy  Correct\Schneider Project\obj\Debug\Schneider Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap08\Schneider Solution - Copy  Correct\Schneider Project\obj\Debug\Schneider_Project.frmMain.resources
+H:\Visual Basic\Chap08\Schneider Solution - Copy  Correct\Schneider Project\obj\Debug\Schneider_Project.Resources.resources
+H:\Visual Basic\Chap08\Schneider Solution - Copy  Correct\Schneider Project\obj\Debug\Schneider Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap08\Schneider Solution - Copy  Correct\Schneider Project\obj\Debug\Schneider Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap08\Schneider Solution - Copy  Correct\Schneider Project\obj\Debug\Schneider Project.exe
+H:\Visual Basic\Chap08\Schneider Solution - Copy  Correct\Schneider Project\obj\Debug\Schneider Project.xml
+H:\Visual Basic\Chap08\Schneider Solution - Copy  Correct\Schneider Project\obj\Debug\Schneider Project.pdb

@@ -1,0 +1,58 @@
+E:\VB2017\Chap01\Colors Solution\Colors Project\bin\Debug\Colors Project.exe.config
+E:\VB2017\Chap01\Colors Solution\Colors Project\bin\Debug\Colors Project.exe
+E:\VB2017\Chap01\Colors Solution\Colors Project\bin\Debug\Colors Project.pdb
+E:\VB2017\Chap01\Colors Solution\Colors Project\bin\Debug\Colors Project.xml
+E:\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors_Project.frmMain.resources
+E:\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors_Project.Resources.resources
+E:\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.exe
+E:\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.xml
+E:\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.pdb
+E:\VB2017\Chap01\Data\Colors Solution\Colors Project\bin\Debug\Colors Project.exe.config
+E:\VB2017\Chap01\Data\Colors Solution\Colors Project\bin\Debug\Colors Project.exe
+E:\VB2017\Chap01\Data\Colors Solution\Colors Project\bin\Debug\Colors Project.pdb
+E:\VB2017\Chap01\Data\Colors Solution\Colors Project\bin\Debug\Colors Project.xml
+E:\VB2017\Chap01\Data\Colors Solution\Colors Project\obj\Debug\Colors Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap01\Data\Colors Solution\Colors Project\obj\Debug\Colors_Project.frmMain.resources
+E:\VB2017\Chap01\Data\Colors Solution\Colors Project\obj\Debug\Colors_Project.Resources.resources
+E:\VB2017\Chap01\Data\Colors Solution\Colors Project\obj\Debug\Colors Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap01\Data\Colors Solution\Colors Project\obj\Debug\Colors Project.exe
+E:\VB2017\Chap01\Data\Colors Solution\Colors Project\obj\Debug\Colors Project.xml
+E:\VB2017\Chap01\Data\Colors Solution\Colors Project\obj\Debug\Colors Project.pdb
+C:\Users\cranmerc\Desktop\VB2017\Chap01\Colors Solution\Colors Project\bin\Debug\Colors Project.exe.config
+C:\Users\cranmerc\Desktop\VB2017\Chap01\Colors Solution\Colors Project\bin\Debug\Colors Project.exe
+C:\Users\cranmerc\Desktop\VB2017\Chap01\Colors Solution\Colors Project\bin\Debug\Colors Project.pdb
+C:\Users\cranmerc\Desktop\VB2017\Chap01\Colors Solution\Colors Project\bin\Debug\Colors Project.xml
+C:\Users\cranmerc\Desktop\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.vbprojAssemblyReference.cache
+C:\Users\cranmerc\Desktop\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors_Project.frmMain.resources
+C:\Users\cranmerc\Desktop\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors_Project.Resources.resources
+C:\Users\cranmerc\Desktop\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.vbproj.GenerateResource.cache
+C:\Users\cranmerc\Desktop\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.vbproj.CoreCompileInputs.cache
+C:\Users\cranmerc\Desktop\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.exe
+C:\Users\cranmerc\Desktop\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.xml
+C:\Users\cranmerc\Desktop\VB2017\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.pdb
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution\Colors Project\bin\Debug\Colors Project.exe.config
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution\Colors Project\bin\Debug\Colors Project.exe
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution\Colors Project\bin\Debug\Colors Project.pdb
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution\Colors Project\bin\Debug\Colors Project.xml
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.vbprojAssemblyReference.cache
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution\Colors Project\obj\Debug\Colors_Project.frmMain.resources
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution\Colors Project\obj\Debug\Colors_Project.Resources.resources
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.vbproj.GenerateResource.cache
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.vbproj.CoreCompileInputs.cache
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.exe
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.xml
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution\Colors Project\obj\Debug\Colors Project.pdb
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution - Mod\Colors Project\bin\Debug\Colors Project.exe.config
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution - Mod\Colors Project\bin\Debug\Colors Project.exe
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution - Mod\Colors Project\bin\Debug\Colors Project.pdb
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution - Mod\Colors Project\bin\Debug\Colors Project.xml
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution - Mod\Colors Project\obj\Debug\Colors Project.vbprojAssemblyReference.cache
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution - Mod\Colors Project\obj\Debug\Colors_Project.frmMain.resources
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution - Mod\Colors Project\obj\Debug\Colors_Project.Resources.resources
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution - Mod\Colors Project\obj\Debug\Colors Project.vbproj.GenerateResource.cache
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution - Mod\Colors Project\obj\Debug\Colors Project.vbproj.CoreCompileInputs.cache
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution - Mod\Colors Project\obj\Debug\Colors Project.exe
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution - Mod\Colors Project\obj\Debug\Colors Project.xml
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Colors Solution - Mod\Colors Project\obj\Debug\Colors Project.pdb

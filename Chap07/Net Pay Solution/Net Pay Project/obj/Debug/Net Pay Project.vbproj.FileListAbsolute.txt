@@ -1,0 +1,35 @@
+E:\VB2017\Chap07\Net Pay Solution\Net Pay Project\bin\Debug\Net Pay Project.exe.config
+E:\VB2017\Chap07\Net Pay Solution\Net Pay Project\bin\Debug\Net Pay Project.exe
+E:\VB2017\Chap07\Net Pay Solution\Net Pay Project\bin\Debug\Net Pay Project.pdb
+E:\VB2017\Chap07\Net Pay Solution\Net Pay Project\bin\Debug\Net Pay Project.xml
+E:\VB2017\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net_Pay_Project.frmMain.resources
+E:\VB2017\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net_Pay_Project.Resources.resources
+E:\VB2017\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.exe
+E:\VB2017\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.xml
+E:\VB2017\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.pdb
+H:\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\bin\Debug\Net Pay Project.exe.config
+H:\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\bin\Debug\Net Pay Project.exe
+H:\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\bin\Debug\Net Pay Project.pdb
+H:\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\bin\Debug\Net Pay Project.xml
+H:\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net_Pay_Project.frmMain.resources
+H:\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net_Pay_Project.Resources.resources
+H:\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.exe
+H:\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.xml
+H:\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\bin\Debug\Net Pay Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\bin\Debug\Net Pay Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\bin\Debug\Net Pay Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\bin\Debug\Net Pay Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net_Pay_Project.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net_Pay_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Net Pay Solution\Net Pay Project\obj\Debug\Net Pay Project.pdb

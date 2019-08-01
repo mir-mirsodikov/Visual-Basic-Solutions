@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap03\Orders Solution\Orders Project\bin\Debug\Orders Project.exe.config
+H:\Visual Basic\Chap03\Orders Solution\Orders Project\bin\Debug\Orders Project.exe
+H:\Visual Basic\Chap03\Orders Solution\Orders Project\bin\Debug\Orders Project.pdb
+H:\Visual Basic\Chap03\Orders Solution\Orders Project\bin\Debug\Orders Project.xml
+H:\Visual Basic\Chap03\Orders Solution\Orders Project\obj\Debug\Orders Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap03\Orders Solution\Orders Project\obj\Debug\Orders_Project.frmMain.resources
+H:\Visual Basic\Chap03\Orders Solution\Orders Project\obj\Debug\Orders_Project.Resources.resources
+H:\Visual Basic\Chap03\Orders Solution\Orders Project\obj\Debug\Orders Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap03\Orders Solution\Orders Project\obj\Debug\Orders Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap03\Orders Solution\Orders Project\obj\Debug\Orders Project.exe
+H:\Visual Basic\Chap03\Orders Solution\Orders Project\obj\Debug\Orders Project.xml
+H:\Visual Basic\Chap03\Orders Solution\Orders Project\obj\Debug\Orders Project.pdb

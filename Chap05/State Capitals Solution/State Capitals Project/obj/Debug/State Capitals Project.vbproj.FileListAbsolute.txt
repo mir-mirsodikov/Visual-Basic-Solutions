@@ -1,0 +1,12 @@
+H:\Visual Basic\Chap05\State Capitals Solution\State Capitals Project\bin\Debug\State Capitals Project.exe.config
+H:\Visual Basic\Chap05\State Capitals Solution\State Capitals Project\bin\Debug\State Capitals Project.exe
+H:\Visual Basic\Chap05\State Capitals Solution\State Capitals Project\bin\Debug\State Capitals Project.pdb
+H:\Visual Basic\Chap05\State Capitals Solution\State Capitals Project\bin\Debug\State Capitals Project.xml
+H:\Visual Basic\Chap05\State Capitals Solution\State Capitals Project\obj\Debug\State Capitals Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap05\State Capitals Solution\State Capitals Project\obj\Debug\State_Capitals_Project.frmMain.resources
+H:\Visual Basic\Chap05\State Capitals Solution\State Capitals Project\obj\Debug\State_Capitals_Project.Resources.resources
+H:\Visual Basic\Chap05\State Capitals Solution\State Capitals Project\obj\Debug\State Capitals Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap05\State Capitals Solution\State Capitals Project\obj\Debug\State Capitals Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap05\State Capitals Solution\State Capitals Project\obj\Debug\State Capitals Project.exe
+H:\Visual Basic\Chap05\State Capitals Solution\State Capitals Project\obj\Debug\State Capitals Project.xml
+H:\Visual Basic\Chap05\State Capitals Solution\State Capitals Project\obj\Debug\State Capitals Project.pdb

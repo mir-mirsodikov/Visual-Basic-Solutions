@@ -1,0 +1,24 @@
+H:\Visual Basic\Chap 3A Test\Chap 3A Test\bin\Debug\Chap 3A Test.exe.config
+H:\Visual Basic\Chap 3A Test\Chap 3A Test\bin\Debug\Chap 3A Test.exe
+H:\Visual Basic\Chap 3A Test\Chap 3A Test\bin\Debug\Chap 3A Test.pdb
+H:\Visual Basic\Chap 3A Test\Chap 3A Test\bin\Debug\Chap 3A Test.xml
+H:\Visual Basic\Chap 3A Test\Chap 3A Test\obj\Debug\Chap 3A Test.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap 3A Test\Chap 3A Test\obj\Debug\Chap_3A_Test.frmMain.resources
+H:\Visual Basic\Chap 3A Test\Chap 3A Test\obj\Debug\Chap_3A_Test.Resources.resources
+H:\Visual Basic\Chap 3A Test\Chap 3A Test\obj\Debug\Chap 3A Test.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap 3A Test\Chap 3A Test\obj\Debug\Chap 3A Test.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap 3A Test\Chap 3A Test\obj\Debug\Chap 3A Test.exe
+H:\Visual Basic\Chap 3A Test\Chap 3A Test\obj\Debug\Chap 3A Test.xml
+H:\Visual Basic\Chap 3A Test\Chap 3A Test\obj\Debug\Chap 3A Test.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chap 3A Test\Chap 3A Test\bin\Debug\Chap 3A Test.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chap 3A Test\Chap 3A Test\bin\Debug\Chap 3A Test.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chap 3A Test\Chap 3A Test\bin\Debug\Chap 3A Test.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chap 3A Test\Chap 3A Test\bin\Debug\Chap 3A Test.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chap 3A Test\Chap 3A Test\obj\Debug\Chap 3A Test.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chap 3A Test\Chap 3A Test\obj\Debug\Chap_3A_Test.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chap 3A Test\Chap 3A Test\obj\Debug\Chap_3A_Test.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chap 3A Test\Chap 3A Test\obj\Debug\Chap 3A Test.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chap 3A Test\Chap 3A Test\obj\Debug\Chap 3A Test.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chap 3A Test\Chap 3A Test\obj\Debug\Chap 3A Test.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chap 3A Test\Chap 3A Test\obj\Debug\Chap 3A Test.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chap 3A Test\Chap 3A Test\obj\Debug\Chap 3A Test.pdb

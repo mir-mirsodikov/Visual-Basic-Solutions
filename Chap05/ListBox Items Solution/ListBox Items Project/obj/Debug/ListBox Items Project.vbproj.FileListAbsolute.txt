@@ -1,0 +1,35 @@
+E:\VB2017\Chap05\ListBox Items Solution\ListBox Items Project\bin\Debug\ListBox Items Project.exe.config
+E:\VB2017\Chap05\ListBox Items Solution\ListBox Items Project\bin\Debug\ListBox Items Project.exe
+E:\VB2017\Chap05\ListBox Items Solution\ListBox Items Project\bin\Debug\ListBox Items Project.pdb
+E:\VB2017\Chap05\ListBox Items Solution\ListBox Items Project\bin\Debug\ListBox Items Project.xml
+E:\VB2017\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox_Items_Project.frmMain.resources
+E:\VB2017\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox_Items_Project.Resources.resources
+E:\VB2017\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.exe
+E:\VB2017\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.xml
+E:\VB2017\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.pdb
+H:\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\bin\Debug\ListBox Items Project.exe.config
+H:\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\bin\Debug\ListBox Items Project.exe
+H:\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\bin\Debug\ListBox Items Project.pdb
+H:\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\bin\Debug\ListBox Items Project.xml
+H:\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox_Items_Project.frmMain.resources
+H:\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox_Items_Project.Resources.resources
+H:\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.exe
+H:\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.xml
+H:\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\bin\Debug\ListBox Items Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\bin\Debug\ListBox Items Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\bin\Debug\ListBox Items Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\bin\Debug\ListBox Items Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox_Items_Project.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox_Items_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\ListBox Items Solution\ListBox Items Project\obj\Debug\ListBox Items Project.pdb

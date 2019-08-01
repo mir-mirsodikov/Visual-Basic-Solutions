@@ -1,0 +1,56 @@
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars_Project.frmMain.resources
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars_Project.Resources.resources
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.exe.config
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.exe
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.pdb
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\bin\Debug\Seminars Project.xml
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.exe
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.xml
+E:\VB2017\Chap04\Seminars Solution-CheckBox\Seminars Project\obj\Debug\Seminars Project.pdb
+E:\VB2017\Chap04\Seminars Solution-RadioButton\Seminars Project\bin\Debug\Seminars Project.exe.config
+E:\VB2017\Chap04\Seminars Solution-RadioButton\Seminars Project\bin\Debug\Seminars Project.exe
+E:\VB2017\Chap04\Seminars Solution-RadioButton\Seminars Project\bin\Debug\Seminars Project.pdb
+E:\VB2017\Chap04\Seminars Solution-RadioButton\Seminars Project\bin\Debug\Seminars Project.xml
+E:\VB2017\Chap04\Seminars Solution-RadioButton\Seminars Project\obj\Debug\Seminars Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\Seminars Solution-RadioButton\Seminars Project\obj\Debug\Seminars_Project.frmMain.resources
+E:\VB2017\Chap04\Seminars Solution-RadioButton\Seminars Project\obj\Debug\Seminars_Project.Resources.resources
+E:\VB2017\Chap04\Seminars Solution-RadioButton\Seminars Project\obj\Debug\Seminars Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\Seminars Solution-RadioButton\Seminars Project\obj\Debug\Seminars Project.exe
+E:\VB2017\Chap04\Seminars Solution-RadioButton\Seminars Project\obj\Debug\Seminars Project.xml
+E:\VB2017\Chap04\Seminars Solution-RadioButton\Seminars Project\obj\Debug\Seminars Project.pdb
+E:\VB2017\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\bin\Debug\Seminars Project.exe.config
+E:\VB2017\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\bin\Debug\Seminars Project.exe
+E:\VB2017\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\bin\Debug\Seminars Project.pdb
+E:\VB2017\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\bin\Debug\Seminars Project.xml
+E:\VB2017\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars_Project.frmMain.resources
+E:\VB2017\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars_Project.Resources.resources
+E:\VB2017\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.exe
+E:\VB2017\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.xml
+E:\VB2017\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.pdb
+E:\VB2017\Chap04\Data\Seminars Solution-RadioButton-Select Case\Seminars Project\bin\Debug\Seminars Project.exe.config
+E:\VB2017\Chap04\Data\Seminars Solution-RadioButton-Select Case\Seminars Project\bin\Debug\Seminars Project.exe
+E:\VB2017\Chap04\Data\Seminars Solution-RadioButton-Select Case\Seminars Project\bin\Debug\Seminars Project.pdb
+E:\VB2017\Chap04\Data\Seminars Solution-RadioButton-Select Case\Seminars Project\bin\Debug\Seminars Project.xml
+E:\VB2017\Chap04\Data\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap04\Data\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars_Project.frmMain.resources
+E:\VB2017\Chap04\Data\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars_Project.Resources.resources
+E:\VB2017\Chap04\Data\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap04\Data\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.exe
+E:\VB2017\Chap04\Data\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.xml
+E:\VB2017\Chap04\Data\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.pdb
+H:\Visual Basic\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\bin\Debug\Seminars Project.exe.config
+H:\Visual Basic\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\bin\Debug\Seminars Project.exe
+H:\Visual Basic\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\bin\Debug\Seminars Project.pdb
+H:\Visual Basic\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\bin\Debug\Seminars Project.xml
+H:\Visual Basic\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars_Project.frmMain.resources
+H:\Visual Basic\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars_Project.Resources.resources
+H:\Visual Basic\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.exe
+H:\Visual Basic\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.xml
+H:\Visual Basic\Chap04\Seminars Solution-RadioButton-Select Case\Seminars Project\obj\Debug\Seminars Project.pdb

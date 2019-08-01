@@ -1,0 +1,24 @@
+H:\Visual Basic\Lorenzo Solution\Lorenzo Project\bin\Debug\Lorenzo Project.exe.config
+H:\Visual Basic\Lorenzo Solution\Lorenzo Project\bin\Debug\Lorenzo Project.exe
+H:\Visual Basic\Lorenzo Solution\Lorenzo Project\bin\Debug\Lorenzo Project.pdb
+H:\Visual Basic\Lorenzo Solution\Lorenzo Project\bin\Debug\Lorenzo Project.xml
+H:\Visual Basic\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo_Project.frmMain.resources
+H:\Visual Basic\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo_Project.Resources.resources
+H:\Visual Basic\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo Project.exe
+H:\Visual Basic\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo Project.xml
+H:\Visual Basic\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo Project.pdb
+H:\Visual Basic\Chap04\Lorenzo Solution\Lorenzo Project\bin\Debug\Lorenzo Project.exe.config
+H:\Visual Basic\Chap04\Lorenzo Solution\Lorenzo Project\bin\Debug\Lorenzo Project.exe
+H:\Visual Basic\Chap04\Lorenzo Solution\Lorenzo Project\bin\Debug\Lorenzo Project.pdb
+H:\Visual Basic\Chap04\Lorenzo Solution\Lorenzo Project\bin\Debug\Lorenzo Project.xml
+H:\Visual Basic\Chap04\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap04\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo_Project.frmMain.resources
+H:\Visual Basic\Chap04\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo_Project.Resources.resources
+H:\Visual Basic\Chap04\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap04\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap04\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo Project.exe
+H:\Visual Basic\Chap04\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo Project.xml
+H:\Visual Basic\Chap04\Lorenzo Solution\Lorenzo Project\obj\Debug\Lorenzo Project.pdb

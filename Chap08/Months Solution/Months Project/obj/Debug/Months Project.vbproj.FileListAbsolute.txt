@@ -1,0 +1,23 @@
+E:\VB2017\Chap08\Months Solution\Months Project\bin\Debug\Months Project.exe.config
+E:\VB2017\Chap08\Months Solution\Months Project\bin\Debug\Months Project.exe
+E:\VB2017\Chap08\Months Solution\Months Project\bin\Debug\Months Project.pdb
+E:\VB2017\Chap08\Months Solution\Months Project\bin\Debug\Months Project.xml
+E:\VB2017\Chap08\Months Solution\Months Project\obj\Debug\Months Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap08\Months Solution\Months Project\obj\Debug\Months_Project.frmMain.resources
+E:\VB2017\Chap08\Months Solution\Months Project\obj\Debug\Months_Project.Resources.resources
+E:\VB2017\Chap08\Months Solution\Months Project\obj\Debug\Months Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap08\Months Solution\Months Project\obj\Debug\Months Project.exe
+E:\VB2017\Chap08\Months Solution\Months Project\obj\Debug\Months Project.xml
+E:\VB2017\Chap08\Months Solution\Months Project\obj\Debug\Months Project.pdb
+H:\Visual Basic\Chap08\Months Solution\Months Project\bin\Debug\Months Project.exe.config
+H:\Visual Basic\Chap08\Months Solution\Months Project\bin\Debug\Months Project.exe
+H:\Visual Basic\Chap08\Months Solution\Months Project\bin\Debug\Months Project.pdb
+H:\Visual Basic\Chap08\Months Solution\Months Project\bin\Debug\Months Project.xml
+H:\Visual Basic\Chap08\Months Solution\Months Project\obj\Debug\Months Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap08\Months Solution\Months Project\obj\Debug\Months_Project.frmMain.resources
+H:\Visual Basic\Chap08\Months Solution\Months Project\obj\Debug\Months_Project.Resources.resources
+H:\Visual Basic\Chap08\Months Solution\Months Project\obj\Debug\Months Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap08\Months Solution\Months Project\obj\Debug\Months Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap08\Months Solution\Months Project\obj\Debug\Months Project.exe
+H:\Visual Basic\Chap08\Months Solution\Months Project\obj\Debug\Months Project.xml
+H:\Visual Basic\Chap08\Months Solution\Months Project\obj\Debug\Months Project.pdb

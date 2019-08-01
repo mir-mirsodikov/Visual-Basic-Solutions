@@ -1,0 +1,35 @@
+E:\VB2017\Chap05\Do Loop Pretest Solution\Do Loop Pretest Project\bin\Debug\Do Loop Pretest Project.exe.config
+E:\VB2017\Chap05\Do Loop Pretest Solution\Do Loop Pretest Project\bin\Debug\Do Loop Pretest Project.exe
+E:\VB2017\Chap05\Do Loop Pretest Solution\Do Loop Pretest Project\bin\Debug\Do Loop Pretest Project.pdb
+E:\VB2017\Chap05\Do Loop Pretest Solution\Do Loop Pretest Project\bin\Debug\Do Loop Pretest Project.xml
+E:\VB2017\Chap05\Do Loop Pretest Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap05\Do Loop Pretest Solution\Do Loop Pretest Project\obj\Debug\Do_Loop_Pretest_Project.frmMain.resources
+E:\VB2017\Chap05\Do Loop Pretest Solution\Do Loop Pretest Project\obj\Debug\Do_Loop_Pretest_Project.Resources.resources
+E:\VB2017\Chap05\Do Loop Pretest Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap05\Do Loop Pretest Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.exe
+E:\VB2017\Chap05\Do Loop Pretest Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.xml
+E:\VB2017\Chap05\Do Loop Pretest Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.pdb
+H:\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\bin\Debug\Do Loop Pretest Project.exe.config
+H:\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\bin\Debug\Do Loop Pretest Project.exe
+H:\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\bin\Debug\Do Loop Pretest Project.pdb
+H:\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\bin\Debug\Do Loop Pretest Project.xml
+H:\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do_Loop_Pretest_Project.frmMain.resources
+H:\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do_Loop_Pretest_Project.Resources.resources
+H:\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.exe
+H:\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.xml
+H:\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\bin\Debug\Do Loop Pretest Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\bin\Debug\Do Loop Pretest Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\bin\Debug\Do Loop Pretest Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\bin\Debug\Do Loop Pretest Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do_Loop_Pretest_Project.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do_Loop_Pretest_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap05\Do Loop Pretest  Solution\Do Loop Pretest Project\obj\Debug\Do Loop Pretest Project.pdb

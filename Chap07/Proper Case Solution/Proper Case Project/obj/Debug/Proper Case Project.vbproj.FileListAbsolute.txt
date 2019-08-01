@@ -1,0 +1,23 @@
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.exe.config
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.exe
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.pdb
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.xml
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper_Case_Project.frmMain.resources
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper_Case_Project.Resources.resources
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.exe
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.xml
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.pdb
+E:\VB2017\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.vbprojResolveAssemblyReference.cache
+H:\Visual Basic\Chap07\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.exe.config
+H:\Visual Basic\Chap07\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.exe
+H:\Visual Basic\Chap07\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.pdb
+H:\Visual Basic\Chap07\Proper Case Solution\Proper Case Project\bin\Debug\Proper Case Project.xml
+H:\Visual Basic\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper_Case_Project.frmMain.resources
+H:\Visual Basic\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper_Case_Project.Resources.resources
+H:\Visual Basic\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.exe
+H:\Visual Basic\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.xml
+H:\Visual Basic\Chap07\Proper Case Solution\Proper Case Project\obj\Debug\Proper Case Project.pdb

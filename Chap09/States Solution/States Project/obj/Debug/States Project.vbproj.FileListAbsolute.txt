@@ -1,0 +1,23 @@
+E:\VB2017\Chap09\States Solution\States Project\bin\Debug\States Project.exe.config
+E:\VB2017\Chap09\States Solution\States Project\bin\Debug\States Project.exe
+E:\VB2017\Chap09\States Solution\States Project\bin\Debug\States Project.pdb
+E:\VB2017\Chap09\States Solution\States Project\bin\Debug\States Project.xml
+E:\VB2017\Chap09\States Solution\States Project\obj\Debug\States Project.vbprojResolveAssemblyReference.cache
+E:\VB2017\Chap09\States Solution\States Project\obj\Debug\States_Project.frmMain.resources
+E:\VB2017\Chap09\States Solution\States Project\obj\Debug\States_Project.Resources.resources
+E:\VB2017\Chap09\States Solution\States Project\obj\Debug\States Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap09\States Solution\States Project\obj\Debug\States Project.exe
+E:\VB2017\Chap09\States Solution\States Project\obj\Debug\States Project.xml
+E:\VB2017\Chap09\States Solution\States Project\obj\Debug\States Project.pdb
+H:\Visual Basic\Chap09\States Solution\States Project\bin\Debug\States Project.exe.config
+H:\Visual Basic\Chap09\States Solution\States Project\bin\Debug\States Project.exe
+H:\Visual Basic\Chap09\States Solution\States Project\bin\Debug\States Project.pdb
+H:\Visual Basic\Chap09\States Solution\States Project\bin\Debug\States Project.xml
+H:\Visual Basic\Chap09\States Solution\States Project\obj\Debug\States Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap09\States Solution\States Project\obj\Debug\States_Project.frmMain.resources
+H:\Visual Basic\Chap09\States Solution\States Project\obj\Debug\States_Project.Resources.resources
+H:\Visual Basic\Chap09\States Solution\States Project\obj\Debug\States Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap09\States Solution\States Project\obj\Debug\States Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap09\States Solution\States Project\obj\Debug\States Project.exe
+H:\Visual Basic\Chap09\States Solution\States Project\obj\Debug\States Project.xml
+H:\Visual Basic\Chap09\States Solution\States Project\obj\Debug\States Project.pdb

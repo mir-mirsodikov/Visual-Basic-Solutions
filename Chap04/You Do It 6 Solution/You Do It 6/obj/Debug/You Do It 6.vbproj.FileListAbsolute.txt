@@ -1,0 +1,24 @@
+H:\Visual Basic\You Do It 6 Solution\You Do It 6\bin\Debug\You Do It 6.exe.config
+H:\Visual Basic\You Do It 6 Solution\You Do It 6\bin\Debug\You Do It 6.exe
+H:\Visual Basic\You Do It 6 Solution\You Do It 6\bin\Debug\You Do It 6.pdb
+H:\Visual Basic\You Do It 6 Solution\You Do It 6\bin\Debug\You Do It 6.xml
+H:\Visual Basic\You Do It 6 Solution\You Do It 6\obj\Debug\You Do It 6.vbprojAssemblyReference.cache
+H:\Visual Basic\You Do It 6 Solution\You Do It 6\obj\Debug\You_Do_It_6.frmMain.resources
+H:\Visual Basic\You Do It 6 Solution\You Do It 6\obj\Debug\You_Do_It_6.Resources.resources
+H:\Visual Basic\You Do It 6 Solution\You Do It 6\obj\Debug\You Do It 6.vbproj.GenerateResource.cache
+H:\Visual Basic\You Do It 6 Solution\You Do It 6\obj\Debug\You Do It 6.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\You Do It 6 Solution\You Do It 6\obj\Debug\You Do It 6.exe
+H:\Visual Basic\You Do It 6 Solution\You Do It 6\obj\Debug\You Do It 6.xml
+H:\Visual Basic\You Do It 6 Solution\You Do It 6\obj\Debug\You Do It 6.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\You Do It 6 Solution\You Do It 6\bin\Debug\You Do It 6.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\You Do It 6 Solution\You Do It 6\bin\Debug\You Do It 6.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\You Do It 6 Solution\You Do It 6\bin\Debug\You Do It 6.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\You Do It 6 Solution\You Do It 6\bin\Debug\You Do It 6.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\You Do It 6 Solution\You Do It 6\obj\Debug\You Do It 6.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\You Do It 6 Solution\You Do It 6\obj\Debug\You_Do_It_6.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\You Do It 6 Solution\You Do It 6\obj\Debug\You_Do_It_6.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\You Do It 6 Solution\You Do It 6\obj\Debug\You Do It 6.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\You Do It 6 Solution\You Do It 6\obj\Debug\You Do It 6.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\You Do It 6 Solution\You Do It 6\obj\Debug\You Do It 6.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\You Do It 6 Solution\You Do It 6\obj\Debug\You Do It 6.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap04\You Do It 6 Solution\You Do It 6\obj\Debug\You Do It 6.pdb

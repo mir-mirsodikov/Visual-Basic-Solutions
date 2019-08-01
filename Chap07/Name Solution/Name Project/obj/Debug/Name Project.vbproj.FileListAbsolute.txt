@@ -1,0 +1,23 @@
+E:\VB2017\Chap07\Name Solution\Name Project\bin\Debug\Name Project.exe.config
+E:\VB2017\Chap07\Name Solution\Name Project\bin\Debug\Name Project.exe
+E:\VB2017\Chap07\Name Solution\Name Project\bin\Debug\Name Project.pdb
+E:\VB2017\Chap07\Name Solution\Name Project\bin\Debug\Name Project.xml
+E:\VB2017\Chap07\Name Solution\Name Project\obj\Debug\Name_Project.frmMain.resources
+E:\VB2017\Chap07\Name Solution\Name Project\obj\Debug\Name_Project.Resources.resources
+E:\VB2017\Chap07\Name Solution\Name Project\obj\Debug\Name Project.vbproj.GenerateResource.Cache
+E:\VB2017\Chap07\Name Solution\Name Project\obj\Debug\Name Project.exe
+E:\VB2017\Chap07\Name Solution\Name Project\obj\Debug\Name Project.xml
+E:\VB2017\Chap07\Name Solution\Name Project\obj\Debug\Name Project.pdb
+E:\VB2017\Chap07\Name Solution\Name Project\obj\Debug\Name Project.vbprojResolveAssemblyReference.cache
+H:\Visual Basic\Chap07\Name Solution\Name Project\bin\Debug\Name Project.exe.config
+H:\Visual Basic\Chap07\Name Solution\Name Project\bin\Debug\Name Project.exe
+H:\Visual Basic\Chap07\Name Solution\Name Project\bin\Debug\Name Project.pdb
+H:\Visual Basic\Chap07\Name Solution\Name Project\bin\Debug\Name Project.xml
+H:\Visual Basic\Chap07\Name Solution\Name Project\obj\Debug\Name Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap07\Name Solution\Name Project\obj\Debug\Name_Project.frmMain.resources
+H:\Visual Basic\Chap07\Name Solution\Name Project\obj\Debug\Name_Project.Resources.resources
+H:\Visual Basic\Chap07\Name Solution\Name Project\obj\Debug\Name Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap07\Name Solution\Name Project\obj\Debug\Name Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap07\Name Solution\Name Project\obj\Debug\Name Project.exe
+H:\Visual Basic\Chap07\Name Solution\Name Project\obj\Debug\Name Project.xml
+H:\Visual Basic\Chap07\Name Solution\Name Project\obj\Debug\Name Project.pdb

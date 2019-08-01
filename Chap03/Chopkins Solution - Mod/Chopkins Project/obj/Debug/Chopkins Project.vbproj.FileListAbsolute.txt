@@ -1,0 +1,36 @@
+H:\Visual Basic\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.exe.config
+H:\Visual Basic\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.exe
+H:\Visual Basic\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.pdb
+H:\Visual Basic\Chopkins Solution\Chopkins Project\bin\Debug\Chopkins Project.xml
+H:\Visual Basic\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins_Project.frmMain.resources
+H:\Visual Basic\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins_Project.Resources.resources
+H:\Visual Basic\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.exe
+H:\Visual Basic\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.xml
+H:\Visual Basic\Chopkins Solution\Chopkins Project\obj\Debug\Chopkins Project.pdb
+H:\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\bin\Debug\Chopkins Project.exe.config
+H:\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\bin\Debug\Chopkins Project.exe
+H:\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\bin\Debug\Chopkins Project.pdb
+H:\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\bin\Debug\Chopkins Project.xml
+H:\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins_Project.frmMain.resources
+H:\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins_Project.Resources.resources
+H:\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins Project.exe
+H:\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins Project.xml
+H:\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\bin\Debug\Chopkins Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\bin\Debug\Chopkins Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\bin\Debug\Chopkins Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\bin\Debug\Chopkins Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins_Project.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap03\Chopkins Solution - Mod\Chopkins Project\obj\Debug\Chopkins Project.pdb

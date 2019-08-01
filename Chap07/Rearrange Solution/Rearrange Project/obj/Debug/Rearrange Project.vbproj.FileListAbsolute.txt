@@ -1,0 +1,27 @@
+E:\VB2017\Chap07\Data\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange_Project.frmMain.resources
+E:\VB2017\Chap07\Data\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange_Project.Resources.resources
+E:\VB2017\Chap07\Data\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange Project.vbproj.GenerateResource.Cache
+H:\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\bin\Debug\Rearrange Project.exe.config
+H:\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\bin\Debug\Rearrange Project.exe
+H:\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\bin\Debug\Rearrange Project.pdb
+H:\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\bin\Debug\Rearrange Project.xml
+H:\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange_Project.frmMain.resources
+H:\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange_Project.Resources.resources
+H:\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange Project.exe
+H:\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange Project.xml
+H:\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\bin\Debug\Rearrange Project.exe.config
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\bin\Debug\Rearrange Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\bin\Debug\Rearrange Project.pdb
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\bin\Debug\Rearrange Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange Project.vbprojAssemblyReference.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange_Project.frmMain.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange_Project.Resources.resources
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange Project.vbproj.GenerateResource.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange Project.vbproj.CoreCompileInputs.cache
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange Project.exe
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange Project.xml
+\\adfile8\Student\2020\MirsodM\Visual Basic\Chap07\Rearrange Solution\Rearrange Project\obj\Debug\Rearrange Project.pdb

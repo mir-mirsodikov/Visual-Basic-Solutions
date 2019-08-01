@@ -1,0 +1,24 @@
+C:\Users\MirsodM\Documents\VB - Period 5\Florist\Florist\bin\Debug\Florist.exe.config
+C:\Users\MirsodM\Documents\VB - Period 5\Florist\Florist\bin\Debug\Florist.exe
+C:\Users\MirsodM\Documents\VB - Period 5\Florist\Florist\bin\Debug\Florist.pdb
+C:\Users\MirsodM\Documents\VB - Period 5\Florist\Florist\bin\Debug\Florist.xml
+C:\Users\MirsodM\Documents\VB - Period 5\Florist\Florist\obj\Debug\Florist.vbprojAssemblyReference.cache
+C:\Users\MirsodM\Documents\VB - Period 5\Florist\Florist\obj\Debug\Florist.frmMain.resources
+C:\Users\MirsodM\Documents\VB - Period 5\Florist\Florist\obj\Debug\Florist.Resources.resources
+C:\Users\MirsodM\Documents\VB - Period 5\Florist\Florist\obj\Debug\Florist.vbproj.GenerateResource.cache
+C:\Users\MirsodM\Documents\VB - Period 5\Florist\Florist\obj\Debug\Florist.vbproj.CoreCompileInputs.cache
+C:\Users\MirsodM\Documents\VB - Period 5\Florist\Florist\obj\Debug\Florist.exe
+C:\Users\MirsodM\Documents\VB - Period 5\Florist\Florist\obj\Debug\Florist.xml
+C:\Users\MirsodM\Documents\VB - Period 5\Florist\Florist\obj\Debug\Florist.pdb
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Florist - Mod\Florist\bin\Debug\Florist.exe.config
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Florist - Mod\Florist\bin\Debug\Florist.exe
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Florist - Mod\Florist\bin\Debug\Florist.pdb
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Florist - Mod\Florist\bin\Debug\Florist.xml
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Florist - Mod\Florist\obj\Debug\Florist.vbprojAssemblyReference.cache
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Florist - Mod\Florist\obj\Debug\Florist.frmMain.resources
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Florist - Mod\Florist\obj\Debug\Florist.Resources.resources
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Florist - Mod\Florist\obj\Debug\Florist.vbproj.GenerateResource.cache
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Florist - Mod\Florist\obj\Debug\Florist.vbproj.CoreCompileInputs.cache
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Florist - Mod\Florist\obj\Debug\Florist.exe
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Florist - Mod\Florist\obj\Debug\Florist.xml
+C:\Users\MirsodM\Documents\VB - Period 5\Chap01\Florist - Mod\Florist\obj\Debug\Florist.pdb

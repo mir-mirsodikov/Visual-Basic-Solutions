@@ -1,0 +1,24 @@
+H:\Visual Basic\Salary Solution\Salary Project\bin\Debug\Salary Project.exe.config
+H:\Visual Basic\Salary Solution\Salary Project\bin\Debug\Salary Project.exe
+H:\Visual Basic\Salary Solution\Salary Project\bin\Debug\Salary Project.pdb
+H:\Visual Basic\Salary Solution\Salary Project\bin\Debug\Salary Project.xml
+H:\Visual Basic\Salary Solution\Salary Project\obj\Debug\Salary Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Salary Solution\Salary Project\obj\Debug\Salary_Project.frmMain.resources
+H:\Visual Basic\Salary Solution\Salary Project\obj\Debug\Salary_Project.Resources.resources
+H:\Visual Basic\Salary Solution\Salary Project\obj\Debug\Salary Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Salary Solution\Salary Project\obj\Debug\Salary Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Salary Solution\Salary Project\obj\Debug\Salary Project.exe
+H:\Visual Basic\Salary Solution\Salary Project\obj\Debug\Salary Project.xml
+H:\Visual Basic\Salary Solution\Salary Project\obj\Debug\Salary Project.pdb
+H:\Visual Basic\Chap02\Salary Solution\Salary Project\bin\Debug\Salary Project.exe.config
+H:\Visual Basic\Chap02\Salary Solution\Salary Project\bin\Debug\Salary Project.exe
+H:\Visual Basic\Chap02\Salary Solution\Salary Project\bin\Debug\Salary Project.pdb
+H:\Visual Basic\Chap02\Salary Solution\Salary Project\bin\Debug\Salary Project.xml
+H:\Visual Basic\Chap02\Salary Solution\Salary Project\obj\Debug\Salary Project.vbprojAssemblyReference.cache
+H:\Visual Basic\Chap02\Salary Solution\Salary Project\obj\Debug\Salary_Project.frmMain.resources
+H:\Visual Basic\Chap02\Salary Solution\Salary Project\obj\Debug\Salary_Project.Resources.resources
+H:\Visual Basic\Chap02\Salary Solution\Salary Project\obj\Debug\Salary Project.vbproj.GenerateResource.cache
+H:\Visual Basic\Chap02\Salary Solution\Salary Project\obj\Debug\Salary Project.vbproj.CoreCompileInputs.cache
+H:\Visual Basic\Chap02\Salary Solution\Salary Project\obj\Debug\Salary Project.exe
+H:\Visual Basic\Chap02\Salary Solution\Salary Project\obj\Debug\Salary Project.xml
+H:\Visual Basic\Chap02\Salary Solution\Salary Project\obj\Debug\Salary Project.pdb
